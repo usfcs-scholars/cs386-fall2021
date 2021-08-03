@@ -1,0 +1,126 @@
+<!-- navigation -->
+<nav class="navbar is-light" role="navigation" aria-label="main navigation">
+  <div class="container">
+    <div class="navbar-brand">
+      <a class="navbar-item" href="{{ "index.html" | relative_url }}">
+        <img src="https://scholars.cs.usfca.edu/images/favicon.png" height="28" alt="USF Logo">
+        &nbsp;
+        <span class="has-text-weight-bold">
+          <span class="has-text-usf-green">CE</span><span class="has-text-usf-gold">CS</span>
+        </span>
+      </a>
+
+      <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="main-menu">
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+      </a>
+    </div>
+
+    <div id="main-menu" class="navbar-menu">
+      <div class="navbar-start">
+        <a class="navbar-item{% if page.title == "Schedule" %} is-active{% endif %}" href="{{ "/schedule.html" | relative_url }}">
+          <span class="icon">
+            <i class="far fa-calendar-alt"></i>
+          </span>
+          <span>Schedule</span>
+        </a>
+
+        <div class="navbar-item has-dropdown is-hoverable">
+          <a class="navbar-link">
+            <span class="icon">
+              <i class="far fa-link"></i>
+            </span>
+            <span>Quick Links</span>
+          </a>
+
+          <div class="navbar-dropdown">
+            <a class="navbar-item" href="{{ "/guides/syllabus.html" | relative_url }}">
+              <span class="icon">
+                <i class="far fa-book-alt"></i>
+              </span>
+              <span>Syllabus</span>
+            </a>
+
+            <hr class="navbar-divider">
+
+            <a class="navbar-item" target="_blank" href="{{ site.canvas }}">
+              <span class="icon">
+                <i class="far fa-school"></i>
+              </span>
+              <span>Canvas</span>
+            </a>
+
+            <a class="navbar-item" target="_blank" href="{{ site.github }}">
+              <span class="icon">
+                <i class="fab fa-github-alt"></i>
+              </span>
+              <span>Github</span>
+            </a>
+
+            <a class="navbar-item" target="_blank" href="{{ site.piazza }}">
+              <span class="icon">
+                <i class="far fa-comments"></i>
+              </span>
+              <span>Piazza</span>
+            </a>
+
+            <hr class="navbar-divider">
+
+            <a class="navbar-item" target="_blank" href="https://pollev.com/sjengle">
+              <span class="icon">
+                <i class="far fa-poll-people"></i>
+              </span>
+              <span>Live Polls</span>
+            </a>
+
+
+            <a class="navbar-item" target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLScBxxXbE2K-OTD6eKxz_LHcVKzFQ6RuyqVScjTqx5FRJu8tcg/viewform?usp=sf_link">
+              <span class="icon">
+                <i class="far fa-box-ballot"></i>
+              </span>
+              <span>Suggestion Box</span>
+            </a>
+          </div>
+        </div>
+      </div>
+
+      <div class="navbar-end">
+        <a class="navbar-item" href="{{ site.piazza }}" disabled>
+          <span class="icon">
+            <i class="far fa-comments"></i>
+          </span>
+          <span>Piazza</span>
+        </a>
+
+        <a class="navbar-item" href="{{ site.zoom }}">
+          <span class="icon">
+            <i class="far fa-signal-stream"></i>
+          </span>
+          <span>Livestream</span>
+        </a>
+      </div>
+    </div>
+  </div>
+</nav>
+<!-- end navigation -->
+
+<!-- mobile menu responsiveness -->
+<!-- https://bulma.io/documentation/components/navbar/ -->
+<script>
+document.addEventListener('DOMContentLoaded', () => {
+  const $navbarBurgers = Array.prototype.slice.call(document.querySelectorAll('.navbar-burger'), 0);
+
+  if ($navbarBurgers.length > 0) {
+    $navbarBurgers.forEach( el => {
+      el.addEventListener('click', () => {
+        const target = el.dataset.target;
+        const $target = document.getElementById(target);
+        el.classList.toggle('is-active');
+        $target.classList.toggle('is-active');
+      });
+    });
+  }
+});
+</script>
+<!-- end mobile menu responsiveness -->

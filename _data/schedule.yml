@@ -1,0 +1,976 @@
+# reusable icon references
+icons:
+  website: &icon_website
+    label: Website
+    class: far fa-link
+  guide: &icon_guide
+    label: Guide
+    class: far fa-atlas
+  video: &icon_video
+    label: Video
+    class: far fa-video
+  slides: &icon_slides
+    label: Slides
+    class: far fa-chalkboard-teacher
+  presentation: &icon_presentation
+    label: Presentation
+    class: far fa-presentation
+  speaker: &icon_speaker
+    label: Guest Speaker
+    class: far fa-podium-star
+  panel: &icon_panel
+    label: Panel
+    class: far fa-users
+  workshop: &icon_workshop
+    label: Workshop
+    class: far fa-users-class
+  participation: &icon_participation
+    label: Live Participation
+    class: far fa-poll-people
+  assignment: &icon_assignment
+    label: Assignment
+    class: far fa-ballot-check
+  date: &icon_date
+    label: Date
+    class: far fa-calendar-alt
+
+
+# icons that don't need a legend
+icons_special:
+  warning: &icon_warning
+    label: Warning
+    class: fas fa-exclamation-triangle
+  pending: &icon_pending
+    label: Pending
+    class: far fa-question-square
+  canceled: &icon_canceled
+    label: Canceled
+    class: far fa-calendar-times
+  travel: &icon_travel
+    label: Travel
+    class: far fa-plane-departure
+  alumni: &icon_alumni
+    label: Alumni
+    class: far fa-user-graduate
+  nothing: &icon_nothing
+    label: Nothing
+    class: ''
+  break: &icon_break
+    label: Break
+    class: far fa-mug-hot
+
+weeks:
+- week: 1
+  date: 2020-08-16
+  columns:
+    - label: 'Pre-Lecture Deadlines'
+      items:
+        - icon: *icon_date
+          date: 2020-08-18
+          text: 'Fall Semester Begins'
+          type: 'has-text-grey'
+
+        - icon: *icon_guide
+          text: 'Getting Started Guide'
+          link: 'guides/getting-started.html'
+          bump: true
+          type: 'has-text-weight-bold has-text-info'
+
+        - icon: *icon_website
+          text: 'Remote Learning Resources'
+          link: 'https://myusf.usfca.edu/covid/remote/students'
+          type: 'has-text-weight-bold has-text-info'
+
+    - label: 'Fri 08/21 Lecture'
+      items:
+
+        - text: 'Lecture Recording'
+          icon: *icon_video
+          link: 'https://usfca.zoom.us/rec/share/uMUlJKC3qHNLSJXh6WH7XvViPJW7eaa80HIXq_MKyk3L_zYa1da5GJxjR_5Ujw_f?startTime=1598039277000'
+
+        - text: 'Ask Me (Almost) Anything'
+          icon: *icon_participation
+          link: 'https://docs.google.com/presentation/d/e/2PACX-1vQACjLOP5oB4I1FtbVqV6VKZptouAx_3zw3y-JL3AKzlymEFPS1qEqDcMsQPenrZbfGTP4N4VlZh8cK/pub?start=false&loop=false&delayms=3000&slide=id.g5e1d929e1d_0_454'
+          type: 'bump'
+
+        - text: 'Course Introduction'
+          icon: *icon_slides
+          link: 'https://docs.google.com/presentation/d/e/2PACX-1vR3lDIr3BAfXj0Vw1oSkMsHPYSorGuhYtWcaF6oHULhHIzxeAL2oPa19kJtOe0RE_sK0KpMwl29UwFC/pub?start=false&loop=false&delayms=3000'
+
+        - text: 'Course Syllabus'
+          icon: *icon_website
+          link: 'guides/syllabus.html'
+
+        - text: 'Interactive Break'
+          icon:  *icon_break
+          link: 'break/'
+          type: 'bump'
+
+        - text: 'Introductions'
+          icon: *icon_participation
+          link: 'https://docs.google.com/presentation/d/e/2PACX-1vQzGGVaNHxkAUyDM24J7GlIXvokQJYACXytENd1HJTvjLY_9i2TXoDZZza8DrrPfDZhaEdTwZ-lOvNd/pub?start=false&loop=false&delayms=3000'
+
+        # - text: 'Computer Science Careers'
+        #   icon: *icon_slides
+        #   link: 'https://docs.google.com/presentation/d/e/2PACX-1vQH7l8oGuE5tAnpy7krjlgmvgTLKLafl_7a1QyBqy52zG3w8DVv45i96OXizTXCn-egXf6ouD3QMQ7l/pub?start=false&loop=false&delayms=3000'
+
+    - label: 'Assignments'
+      items:
+        - text: 'Piazza Setup'
+          icon: *icon_assignment
+          link: 'https://usfca.instructure.com/courses/1594618/assignments/6995266'
+          date: 2020-08-27
+
+        - text: 'Photo Submission'
+          icon: *icon_assignment
+          link: 'https://usfca.instructure.com/courses/1594618/assignments/6957554'
+          date: 2020-08-27
+
+        - text: 'Share Event'
+          icon: *icon_assignment
+          link: 'https://usfca.instructure.com/courses/1594618/assignments/6995427'
+          date: 2020-12-04
+          type: 'bump'
+
+- week: 2
+  date: 2020-08-23
+  columns:
+    - label: 'Pre-Lecture Deadlines'
+      items:
+        - text: 'Add Deadline'
+          icon: *icon_date
+          date: 2020-08-24
+          type: 'has-text-grey'
+
+        - text: 'Piazza Setup'
+          icon: *icon_assignment
+          bump: true
+          link: 'https://usfca.instructure.com/courses/1594618/assignments/6995266'
+          date: 2020-08-27
+
+        - text: 'Photo Submission'
+          icon: *icon_assignment
+          link: 'https://usfca.instructure.com/courses/1594618/assignments/6957554'
+          date: 2020-08-27
+
+    - label: 'Fri 08/28 Lecture'
+      items:
+
+        - text: 'Lecture Recording'
+          icon: *icon_video
+          link: 'https://usfca.zoom.us/rec/play/vJF5dLqo-zI3SNDAsgSDVqN_W43ve6ysgSkervIFyE_hUSULNVCnZ7oWZrBv9J5CCowBRvF6hZXoZw_r'
+
+        - text: 'Linkedin Workshop'
+          icon: *icon_workshop
+          type: 'strong bump'
+          link: 'https://myusf.usfca.edu/career-services/get-linkedin'
+
+        - text: '<a href="https://myusf.usfca.edu/career-services/meet-staff">Juli-Anne Brockway</a>, <em>Career Counselor, Career Services Center</em>'
+          icon: *icon_nothing
+
+        - text: '(Download Slides)'
+          icon: *icon_nothing
+          link: 'https://drive.google.com/file/d/1sxdXpeGY1-NoS8JJc8R3H1drzGiU8MkJ/view?usp=sharing'
+
+        - text: 'Interactive Break'
+          icon:  *icon_break
+          link: 'break/'
+          type: 'bump'
+
+        - text: 'About Presentations'
+          type: 'bump'
+          icon: *icon_guide
+
+        - text: 'LinkedIn Exercise'
+          icon: *icon_participation
+
+    - label: 'Assignments'
+      items:
+        - text: 'LinkedIn Profile'
+          icon: *icon_assignment
+          link: 'https://usfca.instructure.com/courses/1594618/discussion_topics/7911402'
+          date: 2020-09-03
+
+        - text: 'LinkedIn Network'
+          icon: *icon_assignment
+          link: 'https://usfca.instructure.com/courses/1594618/assignments/6973840'
+          date: 2020-09-03
+
+        - text: 'Panel Questions'
+          icon: *icon_assignment
+          type: 'bump'
+          date: 2020-09-03
+          link: 'https://usfca.instructure.com/courses/1594618/discussion_topics/7924078'
+
+        - text: 'Presentation Date'
+          icon: *icon_assignment
+          link: 'https://usfca.instructure.com/courses/1594618/assignments/6972922'
+          date: 2020-09-10
+          type: 'bump'
+
+        - text: 'Presentation Topic'
+          icon: *icon_assignment
+          date: 2020-09-17
+          link: 'https://usfca.instructure.com/courses/1594618/assignments/6980278'
+
+- week: 3
+  date: 2020-08-30
+  columns:
+    - label: 'Pre-Lecture Deadlines'
+      items:
+        - text: 'LinkedIn Profile'
+          icon: *icon_assignment
+          link: 'https://usfca.instructure.com/courses/1594618/discussion_topics/7911402'
+          date: 2020-09-03
+
+        - text: 'LinkedIn Network'
+          icon: *icon_assignment
+          link: 'https://usfca.instructure.com/courses/1594618/assignments/6973840'
+          date: 2020-09-03
+
+        - text: 'Panel Questions'
+          icon: *icon_assignment
+          type: 'bump'
+          date: 2020-09-03
+          link: 'https://usfca.instructure.com/courses/1594618/discussion_topics/7924078'
+
+    - label: 'Fri 09/04 Lecture'
+      items:
+        - text: 'Lecture Recording'
+          icon: *icon_video
+          link: 'https://usfca.zoom.us/rec/play/EXWq6igtOPVoyt1YxqfKVICxHMfd7rohtDHhjgiRSusmFzZeehUWx18arFWmgjMhL8IMdBc3AQx5SbLC.HvoAHZQqaT-fUhex'
+
+        - text: 'Panel: Student Groups'
+          type: 'strong bump'
+          icon: *icon_panel
+
+        - text: 'Ornelle Fonkoua Mambe, <em><a href="https://www.facebook.com/usfcawit/">Women in Tech</a></em>'
+          icon: *icon_nothing
+
+        - text: '<a href="https://www.linkedin.com/in/alhanson7210/">Alex Hanson</a>, <em>Hackers Club</em>'
+          icon: *icon_nothing
+
+        - text: '<a href="https://www.linkedin.com/in/agalvanalarcon/">Arturo Galvan-Alarcon</a>, <em>Diversineers</em>'
+          icon: *icon_nothing
+
+        - text: 'Interactive Break'
+          icon:  *icon_break
+          link: 'break/'
+          type: 'bump'
+
+        - text: 'Panel: Remote Experiences'
+          icon: *icon_panel
+          type: 'bump strong'
+
+        - text: '<a href="https://www.linkedin.com/in/jose-eduardo-corella-carranza-b33804102/">Jose Corella</a>, <em>USF BSCS 2021 (Expected)</em>'
+          icon: *icon_nothing
+
+        - text: '<a href="https://www.linkedin.com/in/isabel-ringo-a891ab182/">Isabel Ringo</a>, <em>USF BSCS 2020 (Expected)</em>'
+          icon: *icon_nothing
+
+        - text: 'Drop Deadline'
+          icon: *icon_date
+          date: 2020-09-04
+          type: 'bump has-text-grey'
+
+    - label: 'Assignments'
+      items:
+        - text: 'Panel Reflection (Student Groups)'
+          icon: *icon_assignment
+          link: 'https://usfca.instructure.com/courses/1594618/assignments/6998180'
+
+        - text: 'Panel Reflection (Remote Experiences)'
+          icon: *icon_assignment
+          link: 'https://usfca.instructure.com/courses/1594618/assignments/6998181'
+
+- week: 4
+  date: 2020-09-06
+  columns:
+    - label: 'Pre-Lecture Deadlines'
+      items:
+        - text: 'Presentation Date'
+          icon: *icon_assignment
+          link: 'https://usfca.instructure.com/courses/1594618/assignments/6972922'
+          date: 2020-09-10
+
+        - text: 'Panel Reflection (Student Groups)'
+          icon: *icon_assignment
+          link: 'https://usfca.instructure.com/courses/1594618/assignments/6998180'
+          date: 2020-09-10
+          type: 'bump'
+
+        - text: 'Panel Reflection (Remote Experiences)'
+          icon: *icon_assignment
+          link: 'https://usfca.instructure.com/courses/1594618/assignments/6998181'
+          date: 2020-09-10
+
+    - label: 'Fri 09/11 Lecture'
+      items:
+        - text: 'Lecture Recording'
+          icon: *icon_video
+          link: 'https://usfca.zoom.us/rec/share/njV3OfEA3xPvJu4MCWWAqU36KPWNiVKQ5yIn97Wmokye7wzcvuFdSLVaaTGqt50h.WZr8TSs8hVb7WVGB'
+
+        - text: 'Public Speaking 101'
+          icon: *icon_workshop
+          type: 'bump strong'
+
+        - text: 'Miles Williams, <em><a href="https://myusf.usfca.edu/lwsc/speaking-center/meet-speaking-center-staff">Speaking Center Coach</a>, <a href="https://myusf.usfca.edu/lwsc/speaking-center/">Speaking Center</a></em>'
+          icon: *icon_nothing
+
+        - text: 'Interactive Break'
+          icon:  *icon_break
+          link: 'break/'
+          type: 'bump'
+
+        - text: 'Google Slides Workshop'
+          icon: *icon_participation
+          type: 'bump'
+          link: 'https://usfca.instructure.com/courses/1594618/assignments/7002431'
+
+    - label: 'Assignments'
+      items:
+        - text: 'Presentation Topic'
+          icon: *icon_assignment
+          date: 2020-09-17
+          link: 'https://usfca.instructure.com/courses/1594618/assignments/6980278'
+
+        - text: 'Speaker Questions'
+          icon: *icon_assignment
+          link: 'https://usfca.instructure.com/courses/1594618/discussion_topics/7929474'
+          date: 2020-09-17
+
+- week: 5
+  date: 2020-09-13
+  columns:
+    - label: 'Pre-Lecture Deadlines'
+      items:
+        - text: 'Presentation Topic'
+          icon: *icon_assignment
+          date: 2020-09-17
+          link: 'https://usfca.instructure.com/courses/1594618/assignments/6980278'
+
+        - text: 'Speaker Questions'
+          icon: *icon_assignment
+          link: 'https://usfca.instructure.com/courses/1594618/discussion_topics/7929474'
+          date: 2020-09-17
+
+    - label: 'Fri 09/18 Lecture'
+      items:
+        - text: 'Lecture Recording'
+          icon: *icon_video
+          link: 'https://usfca.zoom.us/rec/play/NNkWcRPF_xkram1kTOoldS813ttQuqfTSEAhNhTlkJpFWdXUzIAOESWqGvbWZ3GyOMesVRu8MS9tC-Yt.kAzlNNeVLrxV9yeI'
+
+        - text: 'Guest Speaker'
+          icon: *icon_speaker
+          type: 'strong bump'
+
+        - text: '<a href="https://www.bdougie.live/">Brian Douglas</a>, <em>Developer Advocate, Github</em>'
+          icon: *icon_nothing
+
+        - text: 'Interactive Break'
+          icon:  *icon_break
+          link: 'break/'
+          type: 'bump'
+
+        - text: 'Github Profile Workshop'
+          icon: *icon_participation
+          link: 'https://usfca.instructure.com/courses/1594618/assignments/7004384'
+          type: 'bump'
+
+    - label: 'Assignments'
+      items:
+        - text: 'Speaker Reflection'
+          icon: *icon_assignment
+          date: 2020-09-24
+          link: 'https://usfca.instructure.com/courses/1594618/assignments/7004385'
+
+        - text: 'Panel Questions'
+          icon: *icon_assignment
+          date: 2020-09-24
+          link: 'https://usfca.instructure.com/courses/1594618/discussion_topics/7929259'
+
+        - text: 'Github Profile'
+          icon: *icon_participation
+          link: 'https://usfca.instructure.com/courses/1594618/assignments/7004384'
+          date: 2020-09-24
+
+        - text: 'Presentation Draft'
+          icon: *icon_assignment
+          link: 'https://usfca.instructure.com/courses/1594618/assignments/6972924'
+          date: 2020-10-01
+          type: 'bump'
+
+- week: 6
+  date: 2020-09-20
+  columns:
+    - label: 'Pre-Lecture Deadlines'
+      items:
+        - text: 'Speaker Reflection'
+          icon: *icon_assignment
+          date: 2020-09-24
+          link: 'https://usfca.instructure.com/courses/1594618/assignments/7004385'
+
+        - text: 'Panel Questions'
+          icon: *icon_assignment
+          date: 2020-09-24
+          link: 'https://usfca.instructure.com/courses/1594618/discussion_topics/7929259'
+
+        - text: 'Github Profile'
+          icon: *icon_participation
+          link: 'https://usfca.instructure.com/courses/1594618/assignments/7004384'
+          date: 2020-09-24
+
+    - label: 'Fri 09/25 Lecture'
+      items:
+        - text: 'Panel: Recent Alumni (Part 1)'
+          type: 'strong bump'
+          icon: *icon_panel
+
+        - text: 'Panel Recording'
+          link: 'https://usfca.zoom.us/rec/play/ak5cJcusCDOhO_p6bzgNCBJ3SZRHa6ptf_zgJGcAzhMX27gcl18Wp6TAG5N7WAkdUgJtw6IRdVyFo-LM.BpShXmD7LLYlC8_-'
+          icon: *icon_video
+
+        - text: '<a href="https://www.linkedin.com/in/samuel-escapa/">Samuel Escapa Otani</a>, Software Engineer @ <a href="https://www.zendesk.com/about/">Zendesk</a>, USF BSCS 2020'
+          icon: *icon_nothing
+
+        - text: '<a href="https://www.linkedin.com/in/oliviakumar/">Olivia Kumar</a>, iOS Mobile App Developer @ <a href="https://careers.bankofamerica.com/en-us">Bank of America</a>, USF BSCS 2020'
+          icon: *icon_nothing
+
+        - text: '<a href="https://www.linkedin.com/in/casey-haber-143716b2/">Casey Haber</a>, Visualization Engineer @ <a href="https://chartio.com/about/careers/">Chartio</a>, USF BSCS 2018'
+          icon: *icon_nothing
+
+        - text: 'Interactive Break'
+          icon:  *icon_break
+          link: 'break/'
+          type: 'bump'
+
+        - text: 'Panel: Recent Alumni (Part 2)'
+          icon: *icon_panel
+          type: 'bump strong'
+
+        - text: '<a href="https://www.linkedin.com/in/michellepmdong/">Michelle Dong</a>, Backend Engineer @ <a href="https://www.rescale.com/">Rescale</a>, USF BSCS 2020'
+          icon: *icon_nothing
+
+        - text: '<a href="https://www.linkedin.com/in/gphendry/">Graham Hendry</a>, Quality Assurance Automation Engineer @ <a href="https://www.dmdc.osd.mil/">Defense Manpower Data Center</a>, USF BSCS 2020'
+          icon: *icon_nothing
+
+    - label: 'Assignments'
+      items:
+        - text: 'Panel Reflection'
+          icon: *icon_assignment
+          link: 'https://usfca.instructure.com/courses/1594618/assignments/7002439'
+          date: 2020-10-01
+
+        - text: 'Panel Questions'
+          icon: *icon_assignment
+          date: 2020-10-01
+          link: 'https://usfca.instructure.com/courses/1594618/discussion_topics/7931741'
+
+        - text: 'Presentation Draft'
+          icon: *icon_assignment
+          link: 'https://usfca.instructure.com/courses/1594618/assignments/6972924'
+          date: 2020-10-01
+          type: 'bump'
+
+- week: 7
+  date: 2020-09-27
+  columns:
+    - label: 'Pre-Lecture Deadlines'
+      items:
+        - text: 'Panel Reflection'
+          icon: *icon_assignment
+          link: 'https://usfca.instructure.com/courses/1594618/assignments/7002439'
+          date: 2020-10-01
+
+        - text: 'Panel Questions'
+          icon: *icon_assignment
+          date: 2020-10-01
+          link: 'https://usfca.instructure.com/courses/1594618/discussion_topics/7931741'
+
+        - text: 'Presentation Draft'
+          icon: *icon_assignment
+          date: 2020-10-01
+          link: 'https://usfca.instructure.com/courses/1594618/assignments/6972924'
+          type: 'bump'
+
+
+    - label: 'Fri 10/02 Lecture'
+      items:
+        - text: 'CAPS Services and Stress Management'
+          icon: *icon_workshop
+          link: 'https://myusf.usfca.edu/caps/services'
+          type: 'strong'
+
+        - text: 'Workshop Recording'
+          icon: *icon_video
+          link: 'https://usfca.zoom.us/rec/share/mDyu0cA0tNf19tPDJDi8RxLPtle-OLnspf8PJeNJfTic4-LfRFiEvRy8jWf6r24O.8botai-RZGcUivjE?startTime=1601668097000'
+
+        - text: 'Dr. Polina Apilado, <em>Assistant Director for Outreach and Staff Psychologist, CAPS</em>'
+          icon: *icon_nothing
+
+        - text: 'Interactive Break'
+          icon:  *icon_break
+          link: 'break/'
+          type: 'bump'
+
+        - text: 'Women in Tech Panel'
+          icon: *icon_panel
+          type: 'bump strong'
+
+        - text: '<a href="https://www.linkedin.com/in/melalrajhi/">Mel Alrajhi</a>, Senior Software Engineer @ <a href="https://www.digitalocean.com/careers/">DigitalOcean</a>, USF BSCS 2013'
+          icon: *icon_nothing
+
+        - text: '<a href="https://www.linkedin.com/in/alyssa-pohahau-she-her-hers-1554a440/">Alyssa Pohahau</a>, Software Engineer @ <a href="https://careers.google.com/">Google</a>, USF BSCS 2014'
+          icon: *icon_nothing
+
+    - label: 'Assignments'
+      items:
+        - text: 'Panel Reflection'
+          icon: *icon_assignment
+          link: 'https://usfca.instructure.com/courses/1594618/assignments/7004418'
+          date: 2020-10-08
+
+        - text: 'Panel Questions'
+          icon: *icon_assignment
+          date: 2020-10-08
+          link: 'https://usfca.instructure.com/courses/1594618/discussion_topics/7931736'
+
+- week: 8
+  date: 2020-10-04
+  columns:
+    - label: 'Pre-Lecture Deadlines'
+      items:
+        - text: 'Panel Reflection'
+          icon: *icon_assignment
+          link: 'https://usfca.instructure.com/courses/1594618/assignments/7004418'
+          date: 2020-10-08
+
+        - text: 'Panel Questions'
+          icon: *icon_assignment
+          date: 2020-10-08
+          link: 'https://usfca.instructure.com/courses/1594618/discussion_topics/7931736'
+
+        - text: 'Event Extra Credit'
+          icon: *icon_assignment
+          type: 'bump'
+          link: 'https://usfca.instructure.com/courses/1594618/assignments/6983469'
+          date: 2020-10-08
+
+    - label: 'Fri 10/09 Lecture'
+      items:
+        - text: 'Alumni Panel'
+          icon: *icon_panel
+          type: 'strong'
+
+        - text: 'Panel 1 Recording'
+          link: 'https://usfca.zoom.us/rec/play/FUeekNcrZGzx6z_d2okosSmKeOVi_vtv62Eh6Jbi1Zu5r0DNeaq52KvqBAT4cQbJ78JXID9dwkN1xK0t.h1Lbm6fBQmuP5orS'
+          icon: *icon_video
+
+        - text: '<a href="https://www.linkedin.com/in/helenhchen/">Helen Chen</a>, Senior Software Engineer @ <a href="https://www.okta.com/company/careers/">Okta</a>, USF BSCS 2017'
+          icon: *icon_nothing
+
+        - text: '<a href="https://www.linkedin.com/in/david-katz-sf/">David Katz</a>, Software Engineer @ <a href="https://jobs.zendesk.com/us/en">Zendesk</a>, USF BSCS Class of 2018'
+          icon: *icon_nothing
+
+        - text: '<a href="https://www.linkedin.com/in/gordongli/">Gordon Li</a>, Software Engineer @ <a href="https://www.yelp.careers/us/en">Yelp</a>, USF BSCS 2019'
+          icon: *icon_nothing
+
+        - text: 'Interactive Break'
+          icon:  *icon_break
+          link: 'break/'
+          type: 'bump'
+
+        - text: 'Alumni Panel'
+          icon: *icon_panel
+          type: 'bump strong'
+
+        - text: 'Panel 2 Recording'
+          link: 'https://usfca.zoom.us/rec/play/EbkIztD0VV4d2vKKt2qNM-XL3m05eVSE0IbCDouwUSNj_4Zpkn2HavOMmBVfWJvav0GaRr98xEULA3c5.XV1iPmyaFa9VoZsi'
+          icon: *icon_video
+
+        - text: '<a href="https://www.linkedin.com/in/ganbilegbor/">Ganbileg Bor</a>, Senior Software Engineer @ <a href="https://www.redditinc.com/">Reddit</a>, USF BSCS 2012, MSWS 2013'
+          icon: *icon_nothing
+
+        - text: '<a href="https://www.linkedin.com/in/monica-metzger/">Monica Metzger</a>, Senior Software Engineer @ <a href="https://gdmissionsystems.com/careers">General Dynamics Mission Systems</a>, USF BSCS 2017, Santa Clara MSCSE 2021'
+          icon: *icon_nothing
+
+        - text: '<a href="https://www.linkedin.com/in/kevin-moran-32028a26/">Kevin Moran</a>, Software Developer Manager @ <a href="https://www.aboutamazon.com/">Amazon</a>, USF BSCS 2010, MSCS 2012'
+          icon: *icon_nothing
+
+    - label: 'Assignments'
+      items:
+        - text: 'Panel Reflection'
+          icon: *icon_assignment
+          date: 2020-10-15
+          link: 'https://usfca.instructure.com/courses/1594618/assignments/7004416'
+
+        - text: 'Speaker Questions'
+          icon: *icon_assignment
+          date: 2020-10-15
+          link: 'https://usfca.instructure.com/courses/1594618/discussion_topics/7937872'
+
+- week: 9
+  date: 2020-10-11
+  columns:
+    - label: 'Pre-Lecture Deadlines'
+      items:
+        - text: 'Panel Reflection'
+          icon: *icon_assignment
+          date: 2020-10-15
+          link: 'https://usfca.instructure.com/courses/1594618/assignments/7004416'
+
+        - text: 'Speaker Questions'
+          icon: *icon_assignment
+          date: 2020-10-15
+          link: 'https://usfca.instructure.com/courses/1594618/discussion_topics/7937872'
+
+    - label: 'Fri 10/16 Lecture'
+      items:
+        - text: 'Lecture Recording'
+          icon: *icon_video
+          link: 'https://usfca.zoom.us/rec/play/A_ZlzGGbit5oM5u9qCgthIktPNkhgqFJp10GEZM1aEyprDpazJweh0jcaFvXeEf8lqL43T4QCMgPjIXq.RqoBxr9e6tmtg-uO'
+
+        - text: 'Presentations'
+          icon: *icon_presentation
+          link: 'https://usfca.instructure.com/courses/1594618/pages/student-presentations'
+          type: 'bump'
+
+        - text: 'Interactive Break'
+          icon:  *icon_break
+          link: 'break/'
+          type: 'bump'
+
+        - text: 'Guest Speaker'
+          icon: *icon_speaker
+          type: 'strong bump'
+
+        - text: '<a href="https://www.linkedin.com/in/mariakaz/">Maria Kazandjieva</a>, <em>Engineering Manager (Browser Player Team), <a href="https://jobs.netflix.com/">Netflix</a></em>'
+          icon: *icon_nothing
+
+    - label: 'Assignments'
+      items:
+        - text: 'Speaker Reflection'
+          icon: *icon_assignment
+          date: 2020-10-22
+          link: 'https://usfca.instructure.com/courses/1594618/assignments/7009863'
+
+        - text: 'Speaker Questions'
+          icon: *icon_assignment
+          date: 2020-10-22
+          link: 'https://usfca.instructure.com/courses/1594618/discussion_topics/7937875'
+
+- week: 10
+  date: 2020-10-18
+  columns:
+    - label: 'Pre-Lecture Deadlines'
+      items:
+        - text: 'Speaker Reflection'
+          icon: *icon_assignment
+          date: 2020-10-22
+          link: 'https://usfca.instructure.com/courses/1594618/assignments/7009863'
+
+        - text: 'Speaker Questions'
+          icon: *icon_assignment
+          date: 2020-10-22
+          link: 'https://usfca.instructure.com/courses/1594618/discussion_topics/7937875'
+
+    - label: 'Fri 10/23 Lecture'
+      items:
+        - text: 'Guest Speaker'
+          icon: *icon_speaker
+          type: 'strong'
+
+        - text: '<a href="https://www.jarenglover.com/">Jaren Glover</a>, <em>Infrastructure Engineer, Robinhood</em>'
+          icon: *icon_nothing
+
+        - text: 'Interactive Break'
+          icon:  *icon_break
+          link: 'break/'
+          type: 'bump'
+
+        - text: 'CS Careers'
+          icon: *icon_slides
+          type: 'bump'
+          link: 'https://docs.google.com/presentation/d/e/2PACX-1vQH7l8oGuE5tAnpy7krjlgmvgTLKLafl_7a1QyBqy52zG3w8DVv45i96OXizTXCn-egXf6ouD3QMQ7l/pub?start=false&loop=false&delayms=3000'
+
+    - label: 'Assignments'
+      items:
+        - text: 'Speaker Reflection'
+          icon: *icon_assignment
+          date: 2020-10-29
+          link: 'https://usfca.instructure.com/courses/1594618/assignments/7009878'
+
+- week: 11
+  date: 2020-10-25
+  columns:
+    - label: 'Pre-Lecture Deadlines'
+      items:
+        - text: 'Speaker Reflection'
+          icon: *icon_assignment
+          date: 2020-10-29
+          link: 'https://usfca.instructure.com/courses/1594618/assignments/7009878'
+
+    - label: 'Fri 10/30 Lecture'
+      items:
+        - text: 'Lecture Recording'
+          icon: *icon_video
+          link: 'https://usfca.zoom.us/rec/share/etUdyPZY3STc6-Ot1sef-3BrjVHy1Bna0NwmEcRdcdiALx5kgDIxrJnulId1tPn-.c3gnk0WmDG24MYY5?startTime=1604087268000'
+
+        - text: 'Presentations'
+          icon: *icon_presentation
+          type: 'bump'
+          link: 'https://usfca.instructure.com/courses/1594618/pages/student-presentations'
+
+        - text: 'Interactive Break'
+          icon:  *icon_break
+          link: 'break/'
+          type: 'bump'
+
+        - text: 'Halloween Social'
+          type: 'bump'
+          icon:
+            class: 'fas fa-jack-o-lantern'
+
+        - text: 'Withdraw Deadline'
+          date: 2020-10-30
+          icon: *icon_date
+          type: 'has-text-grey'
+          bump: true
+
+    - label: 'Assignments'
+      items:
+        - text: 'Advising Group'
+          icon: *icon_assignment
+          date: 2020-11-05
+          link: 'https://usfca.instructure.com/courses/1594618/assignments/7009888'
+
+        - text: 'Mentor Questions'
+          icon: *icon_assignment
+          date: 2020-11-05
+          link: 'https://usfca.instructure.com/courses/1594618/assignments/7015828'
+
+- week: 12
+  date: 2020-11-01
+  columns:
+    - label: 'Pre-Lecture Deadlines'
+      items:
+        - text: 'Advising Group'
+          icon: *icon_assignment
+          date: 2020-11-05
+          link: 'https://usfca.instructure.com/courses/1594618/assignments/7009888'
+
+        - text: 'Mentor Questions'
+          icon: *icon_assignment
+          date: 2020-11-05
+          link: 'https://usfca.instructure.com/courses/1594618/assignments/7015828'
+
+    - label: 'Fri 11/06 Lecture'
+      items:
+        - text: 'CS Advising'
+          icon: *icon_workshop
+          link: 'https://docs.google.com/presentation/d/e/2PACX-1vRICWt5mwAIGfOu7pLd4EumtYnRGGy_kEgWTsM9Ww5ws4KdpDEVWMMaHp83iSqSRan5CR8DHESIopTP/pub?start=false&loop=false&delayms=3000'
+
+        - text: 'Interactive Break'
+          icon:  *icon_break
+          link: 'break/'
+          type: 'bump'
+
+        - text: 'Alumni Mentoring Event'
+          type: 'bump has-text-weight-bold'
+          icon: *icon_participation
+
+        - text: '<a href="https://www.linkedin.com/in/tedbisson/">Ted Bisson</a>, Senior Software Engineer @ Google, USF BS in Math/CS 1998'
+          icon: *icon_nothing
+
+        - text: '<a href="https://www.linkedin.com/in/tacastillo/">Tim Castillo</a>, Software Engineer @ Bicycle Health, USF BSCS 2016'
+          icon: *icon_nothing
+
+        - text: '<a href="https://www.linkedin.com/in/fatima-zahra-el-filali-94a01616/">Fatima Zahra El Filali</a>, Software Engineer @ Yelp, USF MSCS 2015'
+          icon: *icon_nothing
+
+        - text: '<a href="https://www.linkedin.com/in/apapko/">Aliaksandr Papko</a>, Lead Software Engineer @ Salesforce, USF BSCS 2012'
+          icon: *icon_nothing
+
+        - text: '<a href="https://www.linkedin.com/in/erikadains/">Erika Dains</a>, Software Engineer @ Unity, USF BSCS 2015'
+          icon: *icon_nothing
+
+    - label: 'Assignments'
+      items:
+        - text: 'Mentor Activity Reflection'
+          icon: *icon_assignment
+          link: 'https://usfca.instructure.com/courses/1594618/assignments/7017521'
+          date: 2020-11-14
+
+- week: 13
+  date: 2020-11-08
+  columns:
+    - label: 'Pre-Lecture Deadlines'
+      items:
+        - text: 'Mentor Activity Reflection'
+          icon: *icon_assignment
+          link: 'https://usfca.instructure.com/courses/1594618/assignments/7017521'
+          date: 2020-11-14
+
+        - text: 'Spring Registration Begins'
+          link: 'https://myusf.usfca.edu/registration/fall-registration-calendar'
+          icon: *icon_date
+          date: 2020-11-09
+          type: 'bump'
+
+    - label: 'Fri 11/13 Lecture'
+      items:
+        - text: 'Lecture Recording'
+          icon: *icon_video
+          link: 'https://usfca.zoom.us/rec/play/eRzMPW8tyhcedzXnssUmQ9vS_zS2yN1XldCPELNOseCyvisVkv1VjmHj6Wx8PY8CqUGLGdzJSh4371BY.ck78DBWCNp8Xjcv_'
+
+        - text: 'Presentations'
+          icon: *icon_presentation
+          link: 'https://usfca.instructure.com/courses/1594618/pages/student-presentations'
+          type: 'bump'
+
+        - text: 'Interactive Break'
+          icon:  *icon_break
+          link: 'break/'
+          type: 'bump'
+
+        - text: 'Presentations'
+          icon: *icon_presentation
+          link: 'https://usfca.instructure.com/courses/1594618/pages/student-presentations'
+          type: 'bump'
+
+    - label: 'Assignments'
+      items:
+        - text: ''
+          icon: *icon_nothing
+
+- week: 14
+  date: 2020-11-15
+  columns:
+    - label: 'Pre-Lecture Deadlines'
+      items:
+        - text: ''
+          icon: *icon_nothing
+
+    - label: 'Fri 11/20 Lecture'
+      items:
+        - text: 'Lecture Recording'
+          icon: *icon_video
+          link: 'https://usfca.zoom.us/rec/play/RHz2OO5s0daRyG1POCz8IVPwTJtBsL5JOJpMhzA8_AG7J8p_WSp1S-oJQzowUGxvVRhdv9LR2rBxhgqv.fx0SYP1g0UFoiMHr'
+
+        - text: 'Preparing for Finals'
+          icon: *icon_workshop
+          type: 'strong'
+          link: 'https://myusf.usfca.edu/learning-center'
+          type: 'bump'
+
+        - text: '<em>Workshop by <a href="https://myusf.usfca.edu/learning-center">The Learning Center</a></em>'
+          icon: *icon_nothing
+
+        - text: "What's Next"
+          icon: *icon_participation
+          link: 'https://docs.google.com/presentation/d/e/2PACX-1vRbmhbI8drdKlKrb49jZtxuqn3yxeC1zDDzphHMZ1Mf0DC_TXw7eCgP0DmdHTPOAwoHO2VpW4OT-97h/pub?start=false&loop=false&delayms=3000'
+          bump: true
+
+        - text: 'Grant Evaluation'
+          icon: *icon_assignment
+          bump: true
+
+        - text: 'Course Evaluation'
+          icon: *icon_assignment
+
+    - label: 'Assignments'
+      items:
+        - text: 'Grant Evaluation'
+          icon: *icon_assignment
+
+        - text: 'Course Evaluation'
+          icon: *icon_assignment
+
+        - text: 'CS Night (Required)'
+          icon: *icon_date
+          type: 'bump'
+          date: 2020-12-03
+          link: 'https://usfca.instructure.com/courses/1594618/assignments/6980470'
+
+        - text: 'University Event'
+          icon: *icon_workshop
+          date: 2020-12-03
+          type: 'bump'
+          link: 'https://usfca.instructure.com/courses/1594618/assignments/6980569'
+
+        - text: 'CS Event'
+          icon: *icon_workshop
+          date: 2020-12-03
+          link: 'https://usfca.instructure.com/courses/1594618/assignments/6957539'
+
+        - text: 'SF or Tech Event'
+          icon: *icon_workshop
+          date: 2020-12-03
+          link: 'https://usfca.instructure.com/courses/1594618/assignments/6980469'
+
+        - text: 'Any Event'
+          icon: *icon_workshop
+          date: 2020-12-03
+          link: 'https://usfca.instructure.com/courses/1594618/assignments/6983290'
+
+- week: 15
+  date: 2020-11-22
+  columns:
+    - label: 'Fri 11/27 Lecture'
+      class: 'is-offset-one-third'
+      items:
+        - text: 'No Class (Thanksgiving Break)'
+          icon: *icon_canceled
+          type: 'has-text-grey'
+
+- week: 16
+  date: 2020-11-29
+  columns:
+    - label: 'Pre-Lecture Deadlines'
+      items:
+        - text: 'CS Night (Required)'
+          icon: *icon_date
+          type: 'has-text-weight-bold has-text-danger'
+          date: 2020-12-03
+          link: 'https://usfca.instructure.com/courses/1594618/assignments/6980470'
+
+        - text: 'University Event'
+          icon: *icon_workshop
+          date: 2020-12-03
+          type: 'bump'
+          link: 'https://usfca.instructure.com/courses/1594618/assignments/6980569'
+
+        - text: 'CS Event'
+          icon: *icon_workshop
+          date: 2020-12-03
+          link: 'https://usfca.instructure.com/courses/1594618/assignments/6957539'
+
+        - text: 'SF or Tech Event'
+          icon: *icon_workshop
+          date: 2020-12-03
+          link: 'https://usfca.instructure.com/courses/1594618/assignments/6980469'
+
+        - text: 'Any Event'
+          icon: *icon_workshop
+          date: 2020-12-03
+          link: 'https://usfca.instructure.com/courses/1594618/assignments/6983290'
+
+    - label: 'Fri 12/04 Lecture'
+      items:
+        - text: 'No Class (End of Semester)'
+          icon: *icon_canceled
+          type: 'has-text-grey'
+
+    - label: 'End of Semester Deadlines'
+      items:
+        - text: 'Share Event'
+          icon: *icon_assignment
+          link: 'https://usfca.instructure.com/courses/1594618/assignments/6995427'
+          date: 2020-12-04
+
+        - text: 'Grant Evaluation'
+          icon: *icon_assignment
+          type: 'bump'
+
+        - text: 'Course Evaluation'
+          icon: *icon_assignment

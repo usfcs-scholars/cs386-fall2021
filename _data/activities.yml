@@ -1,0 +1,147 @@
+- label: 'Lectures and In-Class Exercises'
+  items:
+    - name: 'CS Careers'
+      date: 2020-10-23
+      info: 'Presentation on career paths within Computer Science'
+      link: 'https://docs.google.com/presentation/d/e/2PACX-1vQH7l8oGuE5tAnpy7krjlgmvgTLKLafl_7a1QyBqy52zG3w8DVv45i96OXizTXCn-egXf6ouD3QMQ7l/pub?start=false&loop=false&delayms=3000'
+      from:
+        - '[Sophie Engle](https://sjengle.cs.usfca.edu/), Associate Professor in Computer Science'
+
+    - name: 'CS Advising'
+      date: 2020-11-06
+      info: 'Presentation on the Computer Science major requirements and policies'
+      link: 'https://docs.google.com/presentation/d/e/2PACX-1vRICWt5mwAIGfOu7pLd4EumtYnRGGy_kEgWTsM9Ww5ws4KdpDEVWMMaHp83iSqSRan5CR8DHESIopTP/pub?start=false&loop=false&delayms=3000'
+      from:
+        - '[Sophie Engle](https://sjengle.cs.usfca.edu/), Associate Professor in Computer Science'
+
+    - name: 'LinkedIn Exercise'
+      date: 2020-08-28
+      info: 'In-class exercise and followup assignment on creating a LinkedIn profile.'
+      link: 'https://usfca.instructure.com/courses/1594618/discussion_topics/7911402'
+      from:
+        - '[Sophie Engle](https://sjengle.cs.usfca.edu/), Associate Professor in Computer Science'
+
+    - name: 'Google Slides Exercise'
+      date: 2020-09-11
+      link: 'https://usfca.instructure.com/courses/1594618/assignments/7002431'
+      info: 'In-class exercise and followup assignment on using Google Slides and sharing slides on Zoom.'
+      from:
+        - '[Sophie Engle](https://sjengle.cs.usfca.edu/), Associate Professor in Computer Science'
+
+    - name: 'Github Profile Exercise'
+      date: 2020-09-18
+      info: 'In-class exercise and followup assignment on creating a Github profile.'
+      link: 'https://usfca.instructure.com/courses/1594618/assignments/7004384'
+      from:
+        - '[Sophie Engle](https://sjengle.cs.usfca.edu/), Associate Professor in Computer Science'
+
+- label: 'USF Student Services'
+  items:
+    - name: 'Public Speaking 101'
+      date: 2020-09-11
+      info: 'Presentation on public speaking, including in remote learning settings'
+      from:
+        - '[Miles Williams](https://myusf.usfca.edu/lwsc/speaking-center/meet-speaking-center-staff), Speaking Center Coach at the [Speaking Center](https://myusf.usfca.edu/lwsc/speaking-center/)'
+
+    - name: 'LinkedIn Presentation'
+      date: 2020-08-28
+      info: 'Presentation on the Career Services Center and how to use LinkedIn for networking'
+      link: 'https://drive.google.com/file/d/1sxdXpeGY1-NoS8JJc8R3H1drzGiU8MkJ/view?usp=sharing'
+      from:
+        - '[Juli-Anne Brockway](https://myusf.usfca.edu/career-services/meet-staff), Career Counselor at the [Career Services Center](https://myusf.usfca.edu/career-services)'
+
+    - name: 'Stress Management'
+      date: 2020-10-02
+      info: 'Presentation on Counseling and Psychological Services and strategies for stress management'
+      from:
+        - '[Dr. Polina Apilado](https://myusf.usfca.edu/caps/meet-the-staff), Assistant Director for Outreach and Staff Psychologist at [CAPS](https://myusf.usfca.edu/caps/services)'
+
+    - name: 'Preparing for Finals'
+      date: 2020-11-20
+      info: 'Presentation on the Learning Center and strategies to prepare for final exams'
+      from:
+        - '[Rachel Brunson](https://myusf.usfca.edu/lwsc/staff), Assistant Director at the [Learning Center](https://myusf.usfca.edu/learning-center)'
+        - '[Haley Rietman](https://myusf.usfca.edu/lwsc/staff), Program Assistant at the [Learning Center](https://myusf.usfca.edu/learning-center)'
+
+- label: 'Panels and Discussions'
+  items:
+    - name: 'Student Groups'
+      date: 2020-09-04
+      info: 'Panel discussion on the different student groups in the CS Department'
+      from:
+        - 'Ornelle Fonkoua Mambe with [Women in Tech](https://www.facebook.com/usfcawit/)'
+        - '[Alex Hanson](https://www.linkedin.com/in/alhanson7210/) with Hackers Club'
+        - '[Arturo Galvan-Alarcon](https://www.linkedin.com/in/agalvanalarcon/) with Diversineers'
+
+    - name: 'Current Students'
+      date: 2020-09-04
+      info: 'Panel discussion from current students on their experiences with remote learning and remote internships'
+      from:
+        - '[Jose Corella](https://www.linkedin.com/in/jose-eduardo-corella-carranza-b33804102/)'
+        - '[Isabel Ringo](https://www.linkedin.com/in/isabel-ringo-a891ab182/)'
+
+    - name: 'Women in Tech'
+      date: 2020-10-02
+      info: 'Panel discussion on the professional journies of two women in tech'
+      from:
+        - '[Mel Alrajhi](https://www.linkedin.com/in/melalrajhi/), Senior Software Engineer at [DigitalOcean](https://www.digitalocean.com/careers/)'
+        - '[Alyssa Pohahau](https://www.linkedin.com/in/alyssa-pohahau-she-her-hers-1554a440/), Software Engineer at [Google](https://careers.google.com/)'
+
+    - name: 'Recent Alumni, Part 1 and 2'
+      date: 2020-09-25
+      info: 'Panel discussion with recent graduates of the USF BSCS program'
+      from:
+        - '[Samuel Escapa Otani](https://www.linkedin.com/in/samuel-escapa/), Software Engineer at [Zendesk](https://www.zendesk.com/about/)'
+        - '[Olivia Kumar](https://www.linkedin.com/in/oliviakumar/), iOS Mobile App Developer at [Bank of America](https://careers.bankofamerica.com/en-us)'
+        - '[Casey Haber](https://www.linkedin.com/in/casey-haber-143716b2/), Visualization Engineer at [Chartio](https://chartio.com/about/careers/)'
+        - '[Michelle Dong](https://www.linkedin.com/in/michellepmdong/), Backend Engineer at [Rescale](https://www.rescale.com/)'
+        - '[Graham Hendry](https://www.linkedin.com/in/gphendry/), Quality Assurance Automation Engineer at [Defense Manpower Data Center](https://www.dmdc.osd.mil/)'
+
+    - name: 'Alumni, Parts 1 and 2'
+      date: 2020-10-09
+      info: 'Panel discussion with alumni of the USF BSCS and/or MSWS/CS programs'
+      from:
+        - '[Helen Chen](https://www.linkedin.com/in/helenhchen/), Senior Software Engineer at [Okta](https://www.okta.com/company/careers/)'
+        - '[David Katz](https://www.linkedin.com/in/david-katz-sf/), Software Engineer at [Zendesk](https://jobs.zendesk.com/us/en)'
+        - '[Gordon Li](https://www.linkedin.com/in/gordongli/), Software Engineer at [Yelp](https://www.yelp.careers/us/en)'
+        - '[Ganbileg Bor](https://www.linkedin.com/in/ganbilegbor/), Senior Software Engineer at [Reddit](https://www.redditinc.com/)'
+        - '[Monica Metzger](https://www.linkedin.com/in/monica-metzger/), Senior Software Engineer at [General Dynamics Mission Systems](https://gdmissionsystems.com/careers)'
+        - '[Kevin Moran](https://www.linkedin.com/in/kevin-moran-32028a26/), Software Developer Manager at [Amazon](https://www.aboutamazon.com/)'
+
+    - name: 'Alumni Mentoring Activity'
+      date: 2020-11-06
+      info: 'Small group discussions with alumni'
+      from:
+        - '[Ted Bisson](https://www.linkedin.com/in/tedbisson/), Senior Software Engineer at Google'
+        - '[Tim Castillo](https://www.linkedin.com/in/tacastillo/), Software Engineer at Bicycle Health'
+        - '[Fatima Zahra El Filali](https://www.linkedin.com/in/fatima-zahra-el-filali-94a01616/), Software Engineer at Yelp'
+        - '[Aliaksandr Papko](https://www.linkedin.com/in/apapko/), Lead Software Engineer at Salesforce'
+        - '[Erika Dains](https://www.linkedin.com/in/erikadains/), Software Engineer at Unity'
+
+- label: 'Guest Speakers'
+  items:
+    - name: 'Brian Douglas'
+      date: 2020-09-18
+      link: 'https://www.bdougie.live/'
+      info: 'Developer Advocate at [Github](https://github.com/about/careers)'
+
+    - name: 'Maria Kazandjieva'
+      date: 2020-10-16
+      link: 'https://www.linkedin.com/in/mariakaz/'
+      info: 'Engineering Manager (Browser Player Team) at [Netflix](https://jobs.netflix.com/)'
+
+    - name: 'Jaren Glover'
+      date: 2020-10-23
+      link: 'https://www.jarenglover.com/'
+      info: 'Infrastructure Engineer at Robinhood'
+
+- label: 'Miscellaneous'
+  items:
+      - name: 'Interactive/Social Breaks'
+        info: 'Breaks with informal social activities such as polls and small group discussions'
+
+      - name: 'Student Presentations'
+        info: 'Presentations given by students on topics in computer science'
+
+      - name: 'Event Participation'
+        info: 'Participate in outside-of-class events sponsored by the university, department, and SF/tech communities'

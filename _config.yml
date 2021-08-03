@@ -1,0 +1,15 @@
+title: "Career Mentoring and Professional Identity Development"
+subtitle: "CS 386-01 &bullet; Fall 2021"
+
+campuswire: "https://campuswire.com/c/G4C9C10A6"
+canvas: "https://usfca.instructure.com/courses/1603246"
+github: "https://github.com/usf-cs386-fall2021"
+zoom: "https://usfca.zoom.us/j/87482848820"
+
+description: >-
+  This course provides
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-feed

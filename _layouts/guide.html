@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+
+<!-- head -->
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="icon" href="https://scholars.cs.usfca.edu/images/favicon.ico" type="image/x-icon">
+
+<title>{{ site.title }}</title>
+
+<link rel="stylesheet" href="https://scholars.cs.usfca.edu/css/main.css">
+<link rel="stylesheet" href="https://scholars.cs.usfca.edu/css/all.min.css">
+<script src="https://cdn.jsdelivr.net/npm/anchor-js/anchor.min.js"></script>
+
+<style>
+.page-header {
+  border-bottom: 1px solid #919194;
+  text-transform: uppercase;
+  letter-spacing: 0.01rem;
+  padding-bottom: 0.125rem;
+}
+
+.anchorjs-link {
+  font-family: "Font Awesome 5 Pro";
+  color: #919194;
+}
+</style>
+
+<script>
+  anchors.options.placement = 'left';
+  anchors.options.visible = 'hover';
+  anchors.options.icon = '\uf02e';
+</script>
+
+</head>
+
+<!-- body -->
+<body>
+
+{% include header.html %}
+
+{% include navbar.html %}
+
+<section class="section">
+  <div class="container">
+
+    <h2 class="title is-2">{{ page.title }}</h2>
+
+    <!-- content -->
+    <div class="content">
+
+      {{ content }}
+
+    </div>
+    <!-- end content -->
+
+  </div>
+</section>
+
+{% include footer.html %}
+
+<script>
+anchors.add().remove('.no-anchor');
+</script>
+
+<!-- end -->
+</body>
+</html>
