@@ -106,12 +106,24 @@ Students will be required to use various software and websites, including Zoom, 
 Students must have access to a desktop or laptop computer, modern and updated web browser, and a stable internet connection to participate remotely in livestream lectures.
 {: .notification }
 
+
+### Learning Outcomes
+
+Students who complete the Career Mentoring and Professional Identity Development course will be able to:
+
+* Describe their career goals and desired job characteristics.
+* Explain the concepts of identity and intersectionality.
+* Identify the personal strengths and values that support their career goals.
+* Identify ways in which they are or could be recognized as computer scientists by others.
+* Identify resources to aid in the development of the knowledge, skills, and abilities necessary to meet their career goals.
+
+
 ### Important Dates
 
 Below are important dates relevant to this class:
 
 | Date  | Description |
-|:-----:|:------------|
+|:------|:------------|
 | 08/24 | Fall 2021 classes begin. |
 | 08/25 | First CS 386-01 lecture. |
 | 08/30 | Last day to add classes |
