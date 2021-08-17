@@ -47,7 +47,7 @@ The course instructor and office hours will be as follows:
       <div class="columns is-mobile is-variable is-1">
         <div class="column is-narrow">
           <div class="image is-128x128">
-            <img class="is-rounded" src="{{ "/images/engle.png" | relative_url }}">
+            <img class="is-rounded" src="{{ "/images/rollins.jpg" | relative_url }}">
           </div>
         </div>
 
@@ -78,7 +78,7 @@ The course instructor and office hours will be as follows:
       <div class="columns is-mobile is-variable is-1">
         <div class="column is-narrow">
           <div class="image is-128x128">
-            <img class="is-rounded" src="{{ "/images/engle.png" | relative_url }}">
+            <img class="is-rounded" src="{{ "/images/malensek.jpg" | relative_url }}">
           </div>
         </div>
 
@@ -115,10 +115,7 @@ Requires instructor approval. Must be a third-year CS major in the CES program.
 
 There are no required textbooks for this class.
 
-Students will be required to use various software and websites, including Zoom, Canvas, Poll Everywhere, Campuswire, and Linkedin Learning. Everything is free to use for enrolled students, will be linked from the course website, and class time will be dedicated to making sure everyone has appropriate access.
-
-Students must have access to a desktop or laptop computer, modern and updated web browser, and a stable internet connection to participate remotely in livestream lectures.
-{: .notification }
+Students will be required to use various software and websites, including Zoom, Canvas,  and Campuswire. Everything is free to use for enrolled students, will be linked from the course website, and class time will be dedicated to making sure everyone has appropriate access.
 
 
 ### Learning Outcomes
