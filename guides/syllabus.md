@@ -118,16 +118,6 @@ There are no required textbooks for this class.
 Students will be required to use various software and websites, including Zoom, Canvas,  and Campuswire. Everything is free to use for enrolled students, will be linked from the course website, and class time will be dedicated to making sure everyone has appropriate access.
 
 
-### Learning Outcomes
-
-Students who complete the Career Mentoring and Professional Identity Development course will be able to:
-
-* Describe their career goals and desired job characteristics.
-* Explain the concepts of identity and intersectionality.
-* Identify the personal strengths and values that support their career goals.
-* Identify ways in which they are or could be recognized as computer scientists by others.
-* Identify resources to aid in the development of the knowledge, skills, and abilities necessary to meet their career goals.
-
 
 ### Important Dates
 
@@ -159,45 +149,17 @@ This section discusses what the students can expect to learn in this course and 
 
 ### Learning Outcomes
 
-By the end of this course, students will be able to:
+Students who complete the Career Mentoring and Professional Identity Development course will be able to:
 
-  - Describe on-campus support provided by the CS Department and University
-  - Engage with technical communities on and off campus
-  - Improve in-class oral communication skills
-
-This course counts towards general electives. It does not count towards the CS major or CS minor.
+* Describe their career goals and desired job characteristics.
+* Explain the concepts of identity and intersectionality.
+* Identify the personal strengths and values that support their career goals.
+* Identify ways in which they are or could be recognized as computer scientists by others.
+* Identify resources to aid in the development of the knowledge, skills, and abilities necessary to meet their career goals.
 
 ### Course Topics
 
 The majority of class time is dedicated to guest lectures. Topics fall into one of three categories: department community, university community, or local community.
-
-##### Department Community
-
-This includes activities that involve the community within the USF Computer Science department. For example:
-
-  - Guest lectures or panels from faculty
-  - Guest lectures or panels from alumni
-  - Guest lectures or panels from CS student groups, such as Women in Tech, the Diversineers, or the ACM Student Chapter
-  - Guest lectures or panels from other CS department groups, such as the CS Tutoring Center or CS Support
-
-##### University Community
-
-This includes activities that involve the community within the broader University community. For example:
-
-  - Guest lectures from the Career Services Center
-  - Guest lectures from other campus organizations, such as the LWSC, CASA, HPS, and CAPS
-
-##### Local Community
-
-This includes activities that involve the local SF Bay Area or tech communities. For example:
-
-  - Guest speakers or panels from local tech companies
-  - Attending field trips to local tech companies
-  - Attending local meetups or technical conferences
-
-<i class="fas fa-info-circle"></i>
-Due to the ongoing COVID-19 pandemic, some local community activities (such as field trips and physically attending local tech meetups) have been replaced with virtual or remote options.
-{: .notification }
 
 ### Grading Breakdown
 
@@ -228,13 +190,8 @@ Students must attend at least 60% of all classes to pass this course.
 
 Students must complete weekly pass/fail participation assignments throughout the semester. Example assignments include posting questions for an invited speaker, providing presentation feedback, and responding to surveys and in-class polls.
 
-##### Class Presentation
+##### Mentor Meetings
 
-Students must complete a 10 minute in-class presentation on a significant figure, organization, or event in Computer Science. This category includes several pass/fail assignments: selecting a presentation topic, submitting slides (or other presentation materials) ahead of time, optionally visiting the Speaking Center in preparation for the presentation, and delivering the presentation in class.
-
-<i class="fas fa-info-circle"></i>
-Accommodations will be made on request for students unable to present via Zoom.
-{: .notification }
 
 ##### Community Engagement
 
@@ -243,6 +200,16 @@ Students must attend community engagement activities outside of class. Participa
 This includes participating in at least one event offered by the CS department (other than CS Night), at least one event offered by the University, and at least one event offered by the local SF Bay Area or technical communities.
 
 This also involves participating in the annual CS Night celebration at the end of the semester. Participation in this event replaces the final exam for this course.
+
+
+##### Class Presentation
+
+Students must complete a 10 minute in-class presentation on a significant figure, organization, or event in Computer Science. This category includes several pass/fail assignments: selecting a presentation topic, submitting slides (or other presentation materials) ahead of time, optionally visiting the Speaking Center in preparation for the presentation, and delivering the presentation in class.
+
+<i class="fas fa-info-circle"></i>
+Accommodations will be made on request for students unable to present via Zoom.
+{: .notification }
+
 
 ### Grading Scale
 
