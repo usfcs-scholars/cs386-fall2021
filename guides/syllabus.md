@@ -52,7 +52,7 @@ The course instructor and office hours will be as follows:
         </div>
 
         <div class="column">
-          <strong>Sophie Engle</strong><br/>
+          <strong>Sami Rollins</strong><br/>
           <i class="fa-fw fas fa-calendar-alt "></i>
           <span>Thursdays, 2:45pm &ndash; 4:15pm</span>
           <br/>
@@ -66,10 +66,15 @@ The course instructor and office hours will be as follows:
           <br/>
 
           <i class="fa-fw fas fa-globe "></i>
-          <a href="//sjengle.cs.usfca.edu">sjengle.cs.usfca.edu</a>
+          <a href="//srollins.cs.usfca.edu">srollins.cs.usfca.edu</a>
         </div>
       </div>
 
+      <!-- end nested columns -->
+    </div>
+
+    <div class="box">
+      <!-- nested columns for profile photo -->
       <div class="columns is-mobile is-variable is-1">
         <div class="column is-narrow">
           <div class="image is-128x128">
@@ -78,7 +83,7 @@ The course instructor and office hours will be as follows:
         </div>
 
         <div class="column">
-          <strong>Sophie Engle</strong><br/>
+          <strong>Matthew Malensek</strong><br/>
           <i class="fa-fw fas fa-calendar-alt "></i>
           <span>Thursdays, 2:45pm &ndash; 4:15pm</span>
           <br/>
@@ -92,11 +97,13 @@ The course instructor and office hours will be as follows:
           <br/>
 
           <i class="fa-fw fas fa-globe "></i>
-          <a href="//sjengle.cs.usfca.edu">sjengle.cs.usfca.edu</a>
+          <a href="http://www.cs.usfca.edu/~mmalensek/">cs.usfca.edu/~mmalensek</a>
         </div>
       </div>
+
       <!-- end nested columns -->
     </div>
+
   </div>
 </div>
 
