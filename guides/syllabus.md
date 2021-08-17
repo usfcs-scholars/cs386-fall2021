@@ -1,38 +1,20 @@
 ---
 layout: guide
 title: Course Syllabus
-piazza: https://piazza.com/usfca/fall2020/cs186/home
-canvas: https://usfca.instructure.com/courses/1594618
+campuswire: "https://campuswire.com/c/G4C9C10A6"
+canvas: "https://usfca.instructure.com/courses/1603246"
 ---
 
-# CS 186 Special Topics: Community Engaged Computer Science
+# CS 386: Career Mentoring and Professional Identity Development
 {: .title }
 
-#### Fall 2020 &bull; CS 186-02 &bull; 2 Credits
+#### Fall 2021 &bull; CS 386-01 &bull; 2 Credits
 {: .subtitle .has-text-weight-light }
 
-This course provides a structured opportunity for students to learn and participate in the departmental and local technical communities on and off campus. The course features activities including guest speakers from the local tech industry; faculty research talks; presentations by the campus career center and similar organizations; field trips to local meetup events; and opportunities for students to socialize and build relationships with one another.
+This course ...
 
-## Summary
-
-A syllabus is similar to a contract between the instructor and the student, and as such can be quite long. Here is a summary of some important points in this document:
-
-  - Due to the Thanksgiving break and timing of the end of the semester, the last normal lecture for this class is Friday, November 20, 2020. See: [Important Dates](#important-dates)
-
-  - There will be no final exam. Instead, students must participate in CS Night on the evening of Thursday, December 5, 2020. See: [Grading Breakdown](#grading-breakdown)
-
-  - Students must get 60% or above in all categories to pass. Falling below that cutoff in any category will result in an F letter grade. See: [Grading Breakdown](#grading-breakdown)
-
-  - We will primarily use [Piazza]({{ page.piazza }}) for all asynchronous communication for this class, not email. See: [Communication Policy](#communication-policy)
-
-  - Attendance is required and late submissions are not accepted; but there are automatic exceptions granted for certain situations. See: [Course Policies](#course-policies)
-
-It is still the responsibility of each student to review the entire syllabus below.
-
-## Course Details
+## Course Information
 {: .page-header }
-
-This section covers basic information about the course, instructor, and teacher assistants.
 
 ### Lecture Sections
 
@@ -40,21 +22,21 @@ This course meets once a week as follows:
 
 <div class="columns">
   <div class="column is-narrow">
-    <strong>CS 186-02 (CRN 41057)</strong><br/>
+    <strong>CS 386-01 (CRN XXXXX)</strong><br/>
     <i class="fa-fw fas fa-calendar-alt"></i>
-    Fridays<br/>
+    Wednesdays<br/>
     <i class="fa-fw fas fa-clock"></i>
-    1:00pm &ndash; 2:45pm<br/>
+    4:45 &ndash; 6:25pm<br/>
     <i class="fa-fw fas fa-signal-stream"></i>
-    Zoom: <a href="https://usfca.zoom.us/j/94143054441">941 4305 4441</a>
+    Zoom: <a href="{{ site.zoom }}">874 8284 8820</a>
   </div>
 </div>
 
-Some activities may occur outside of the scheduled class time. These will be announced on [Piazza]({{ page.piazza }}).
+Some activities may occur outside of the scheduled class time. These will be announced on [Campuswire]({{ page.campuswire }}).
 
 See the [Getting Started With Zoom](getting-started-with-zoom.html) guide for how to download, install, login, and properly use Zoom.
 
-### Instructor
+### Instructors
 
 The course instructor and office hours will be as follows:
 
@@ -86,38 +68,25 @@ The course instructor and office hours will be as follows:
           <i class="fa-fw fas fa-globe "></i>
           <a href="//sjengle.cs.usfca.edu">sjengle.cs.usfca.edu</a>
         </div>
-      </div>
-      <!-- end nested columns -->
-    </div>
-  </div>
-</div>
-
-### Teacher Assistant
-
-The teacher assistant and TA office hours will be as follows:
-
-<div class="columns">
-  <div class="column is-narrow">
-    <div class="box">
-      <!-- nested columns for profile photo -->
-      <div class="columns is-mobile is-variable is-1">
-        <div class="column is-narrow">
-          <div class="image is-128x128">
-            <img class="is-rounded" src="{{ "/images/hammond.jpg" | relative_url }}">
-          </div>
-        </div>
 
         <div class="column">
-          <strong>Pierce Hammond</strong><br/>
+          <strong>Sophie Engle</strong><br/>
           <i class="fa-fw fas fa-calendar-alt "></i>
-          <span>Wednesdays, 4:00pm &ndash; 5:00pm</span>
+          <span>Thursdays, 2:45pm &ndash; 4:15pm</span>
+          <br/>
+
+          <i class="fa-fw fas fa-calendar-alt "></i>
+          <span>Fridays, 11:00pm &ndash; 12:30pm</span>
           <br/>
 
           <i class="fa-fw fas fa-signal-stream "></i>
-          Zoom: <a href="https://zoom.us/j/6698549458">669 854 9458</a>
+          Zoom: <a href="https://usfca.zoom.us/j/98397885780">983 9788 5780</a>
           <br/>
-          (See Piazza for password.)
+
+          <i class="fa-fw fas fa-globe "></i>
+          <a href="//sjengle.cs.usfca.edu">sjengle.cs.usfca.edu</a>
         </div>
+
       </div>
       <!-- end nested columns -->
     </div>
@@ -126,13 +95,13 @@ The teacher assistant and TA office hours will be as follows:
 
 ### Prerequisites
 
-Requires instructor approval. Must be an incoming first-year CS major.
+Requires instructor approval. Must be a third-year CS major in the CES program.
 
 ### Required Materials
 
 There are no required textbooks for this class.
 
-Students will be required to use various software and websites, including Zoom, Canvas, Poll Everywhere, Piazza, and Linkedin Learning. Everything is free to use for enrolled students, will be linked from the course website, and class time will be dedicated to making sure everyone has appropriate access.
+Students will be required to use various software and websites, including Zoom, Canvas, Poll Everywhere, Campuswire, and Linkedin Learning. Everything is free to use for enrolled students, will be linked from the course website, and class time will be dedicated to making sure everyone has appropriate access.
 
 Students must have access to a desktop or laptop computer, modern and updated web browser, and a stable internet connection to participate remotely in livestream lectures.
 {: .notification }
@@ -141,21 +110,23 @@ Students must have access to a desktop or laptop computer, modern and updated we
 
 Below are important dates relevant to this class:
 
-| 🚩 | Date  | Description |
-|---:|:-----:|:------------|
-|    | 08/18 | Fall 2020 classes begin. |
-| 🚩 | 08/21 | First CS 186-02 lecture. |
-|    | 08/24 | Last day to add classes online. |
-|    | 09/04 | Census date; last day to drop without a "W" appearing on transcript. |
-|    | 10/30 | Last day to withdraw from a class and receive a "W" on transcript. |
-| 🚩 | 11/20 | Last CS 186-02 lecture. |
-|    | 11/27 | Class canceled due to Thanksgiving recess. |
-| 🚩 | 12/03 | CS Night; Fall 2020 classes end. |
+| Date  | Description |
+|:-----:|:------------|
+| 08/24 | Fall 2021 classes begin. |
+| 08/25 | First CS 386-01 lecture. |
+| 08/30 | Last day to add classes |
+| 09/06  | Labor Day Holiday (No classes) |
+| 09/10 | Census date; last day to drop without a "W" appearing on transcript. |
+| 10/18--10/19 | Fall Break (No Classes) |
+| 11/05 | Last day to drop courses or withdraw |
+| 11/25--11/26 | Thanksgiving recess |
+| 12/08 | Last day of classes |
+| 12/09 | CS Night |
 {: class="table dates is-hoverable" style="width: auto;" }
 
 See the [official academic calendar](https://myusf.usfca.edu/registration/academic-calendar) for other important dates.
 
-We will not have a final exam in this class. Students must instead attend CS Night on Thursday December 3rd.
+We will not have a final exam in this class. Students must instead attend CS Night on Thursday December 9th.
 {: .notification }
 
 ## Learning and Assessment
@@ -215,10 +186,11 @@ As long as all categories remain above a 60%, the final grade is determined by t
 
 | Percent | Category        |
 |--------:|:----------------|
-|     25% | Class Attendance |
-|     25% | Participation Assignments |
-|     25% | Class Presentation |
-|     25% | Community Engagement |
+|     20% | Class Attendance |
+|     20% | Participation |
+|     20% | Mentor Meetings |
+|     20% | Community Engagement |
+|     20% | Class Presentation |
 {: class="table is-hoverable" style="width: auto;"}
 
 Additional details on each category can be found below.
@@ -248,10 +220,6 @@ Students must attend community engagement activities outside of class. Participa
 This includes participating in at least one event offered by the CS department (other than CS Night), at least one event offered by the University, and at least one event offered by the local SF Bay Area or technical communities.
 
 This also involves participating in the annual CS Night celebration at the end of the semester. Participation in this event replaces the final exam for this course.
-
-<i class="fas fa-info-circle"></i>
-Due to the ongoing COVID-19 pandemic, virtual participation or engaging in pre-recorded videos will be accepted instead of in-person participation. If this still causes undue hardship, reach out to the instructor to discuss alternatives.
-{: .notification }
 
 ### Grading Scale
 
@@ -291,77 +259,9 @@ Email will NOT be used for communication in this course.
 
 Instead, please see how best to communicate depending on whether you wish to communicate synchronously (live, simultaneously, in real time) or asynchronously (on your own time, without immediate responses or feedback).
 
-##### Synchronous Communication
-
-The synchronous communication that would have occurred in-class will be conducted during the live lectures as follows:
-
-  - [Comment Box](https://PollEv.com/discourses/wTsFNpgkUScBoCcIbyQfI/respond): At the start of class and during breaks, the instructor will enable a poll that allows you to enter questions and comments anonymously.
-
-  - [Raise Hand](https://support.zoom.us/hc/en-us/articles/115001286183): Use the "Raise Hand" feature in Zoom to get the instructor's attention. The instructor will pause and give you an opportunity to ask a question verbally or via the chat.
-
-  - [Meeting Chat](https://support.zoom.us/hc/en-us/articles/203650445-In-Meeting-Chat): Use the in-meeting "Chat" feature in Zoom to ask questions or make comments. These should be posted in the "Everyone" channel (not privately). If you do not want your name to appear in the main chat, you can privately chat the TA to post the question on your behalf instead.
-
-Office hours will also be held via Zoom. Requests will be taken on a first-come first-serve basis (i.e. no appointments). You may join individually or in groups. The instructor will create private breakout rooms to respond to questions as needed.
-
-##### Asynchronous Communication
-
-Most asynchronous course-related communication will be handled using [Piazza]({{ page.piazza }})—a FERPA-compliant Q&A platform that supports public, anonymous, and private posts. When making posts on Piazza, please keep the following in mind:
-
-  - **Search other posts first.** It is possible your question has already been asked and answered in another post. There is a search feature and you can use the folders to narrow posts to a single category.
-
-  - **Make a public post when appropriate.** You can **post anonymously** if you prefer. Your classmates will not be able to see your identity for anonymous posts, but instructors will still be able to see your name. If you make a private post that should be public, you will be asked to create a new public anonymous post before receiving an answer.
-
-  - **Do not post code on Piazza.** If you have a question regarding your specific code, please commit and push your code to your GitHub repository and post a link. That ensures only those with access to your repository (instructor and teacher assistants) will see your code.
-
-  - **Make posts specific to solutions or grades private** to the instructor and teacher assistants. This replaces directly emailing the instructor regarding the course. If you email the instructor directly, you will be asked to make a private post on Piazza before receiving an answer.
-
-  - **Follow the 1 hour rule.** You should be stuck on a problem between 30 minutes to 1 hour before asking for help, but should immediately ask for help if stuck over 1 hour. Worst case, you figure out the answer before we are able to help. Best case, we can help you get unstuck!
-
-  - **Post exact details when possible.** You will get a solution faster if you include as many details as possible when asking for help. This might include exact error messages, stack traces, which tests are failing and passing, console or log output, and more. If you forget, we will have to ask you for this detail which can extend how long it takes to get help.
-
-In addition to [Piazza]({{ page.piazza }}), the instructor will also use [Canvas]({{ page.canvas }}) to notify students of missing assignments or warn about low grades.
-
-This course also has an [anonymous suggestion box](https://docs.google.com/forms/d/e/1FAIpQLScBxxXbE2K-OTD6eKxz_LHcVKzFQ6RuyqVScjTqx5FRJu8tcg/viewform?usp=sf_link) where you can raise non-urgent concerns or suggestions.
-
-<i class="fas fa-exclamation-triangle"></i>
-**Under no circumstances should you reach out to the teacher assistants regarding this course via any unapproved communication channel.** Instructors and teacher assistants must provide all students equal opportunity for course-related help. Using unapproved communication channels creates an unfair advantage over other students and will be treated as a violation of the [Student Conduct Code](https://myusf.usfca.edu/fogcutter).
-{: .notification }
-
 ### Student Conduct
 
 Students are required to adhere to the University's [Student Code of Conduct](https://myusf.usfca.edu/fogcutter/student-conduct). In short, students are expected to treat each other with respect at all times.
-
-In addition, remote learning often involves a **netiquette policy**. Simply stated, "netiquette" is network etiquette—that is, the etiquette of cyberspace. And "etiquette" means "the forms required by good breeding or prescribed by authority to be required in social or official life." In other words, Netiquette is a set of rules for behaving properly online [[1](http://www.albion.com/netiquette/introduction.html)].
-
-##### Synchronous Netiquette
-
-Activities that are **synchronous** are those that occur live (in real-time) with everyone participating at the same time. This includes livestreamed lectures and labs on Zoom. When communicating and participating in synchronous portions of the course:
-
-  - Arrive on time and attend for the entire session.
-  - Listen and dialog with each other respectfully.
-  - Participate in live polls and surveys in a timely manner.
-  - Need a break? Wait until the scheduled breaks if possible. There will either be two 10 minute breaks or one 15 minute break each lecture.
-
-It will always be OPTIONAL whether you wish to enable your audio and/or video. When enabling your audio and/or video, keep in mind the following:
-
-  - The main livestream is sometimes recorded for students unable to attend live. If you enable your audio and/or video, it is possible it will be part of the password- protected recording.
-  - Consider enabling your audio and video during small group breakout rooms or when asking a question live.
-  - Keep your microphone muted unless speaking.
-  - If you choose to enable your video, please make sure to present yourself appropriately (dressed as you would be in the classroom) and double-check your background environment (for example, clean up laundry, trash).
-  - Be careful what you do while your video is enabled. Everyone can see you in "Gallery View" if you enable video, even if you are not currently speaking.
-
-##### Asynchronous Netiquette
-
-Activities that are **asynchronous** are those that occur outside of class time, usually individually on your own. This includes watching a pre-recorded lecture or participating in an online discussion board. When communicating and participating in asynchronous portions of the course:
-
-  - Be respectful of other participants and keep your comments constructive.
-  - Avoid using all caps (may be read as SHOUTING).
-  - Keep subject lines clear.
-  - Spelling and grammar do count; proofread your writing.
-  - Be coherent and succinct.
-  - Check the most recent comment/email before replying to an earlier one.
-  - Do not falsify information or impersonate others online.  
-  - ~~Limit use of acronyms (eg YOLO), icons and emojis.~~ If you want to use an acronym, icon, or emoji (or even a GIF) in this class to express yourself, please feel free to do so :) Just keep it appropriate!
 
 ### Attendance Policy
 
@@ -397,36 +297,6 @@ Students should expect to spend approximately 1 hour on out-of-class work every 
 {: .page-header }
 
 Life sometimes (often?) interferes with learning. Several exceptions to course policies will be granted AUTOMATICALLY upon request. These exceptions are requested by making a private post on Piazza within the required timeframe. See the following sections for additional details.
-
-### Attendance Waiver
-
-You may request to have your attendance waived for any lecture that you are not scheduled to present. The waiver will be automatically granted if (1) it is made within 48 hours of the missed lecture, (2) you are not scheduled to present on that day, and (3) you have not made any previous attendance waiver requests.
-
-### Assignment Extension
-
-You may request to have a 48 hour extension on any participation assignment. This request will be automatically granted as long as (1) the assignment is in the participation category, (2) the request is made within 48 hours of the assignment deadline, and (3) you have not made any previous extension requests.
-
-This extension does not cover assignments in other categories, such as attending a livestream panel or presenting in-class.
-
-### Extra Credit Request
-
-Unhappy with one of your grades? You may request an extra credit assignment to make up the missing points for one assignment in any category. This will involve extra work, so students are encouraged to take advantage of the assignment extension or attendance waiver first if possible.
-
-An extra credit request will be automatically granted if (1) the request is made within 48 hours of receiving your assignment grade and (2) you have not made any previous extra credit requests.
-
-### Regret Clause
-
-Did you cross the line and violate the Academic Honesty policy? You can invoke the regret clause [[2](https://www.harvardmagazine.com/2020/03/cs50-regret-clause)] to avoid the full consequences outlined in the [Cheating Policy](#cheating-policy) section. Instead, you will be able to resubmit the offending assignment with a 40% point deduction.
-
-You must *voluntarily* invoke the regret clause within 48 hours of submitting the offending assignment and attend a one-on-one appointment with the instructor to discuss the specifics of your cheating case to qualify.
-
-You cannot retroactively invoke the regret clause. If the instructor confronts you regarding cheating after the 48 hour grace period, expect full consequences for that action.
-
-You can only invoke the regret clause once. Repeat cheating cases will immediately result in an F for the course and report to the Academic Integrity Committee.
-
-### Other Exceptions
-
-Additional exceptions may be requested for any reason, but are more likely to be approved for verifiable exceptional circumstances. To make an additional policy exception request, please make a private post on Piazza to only the course instructor.
 
 ## University Policies
 {: .page-header }
