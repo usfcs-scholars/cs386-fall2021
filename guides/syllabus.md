@@ -23,9 +23,9 @@ This course meets once a week as follows:
 <div class="columns">
   <div class="column is-narrow">
     <strong>CS 386-01 (CRN 42484)</strong><br/>
-    <strong>Modality:</strong> Hybrid
+    <strong>Modality:</strong> Hybrid<br/>
     <i class="fa-fw fas fa-calendar-alt"></i>
-    Wednesdays in HR 435<br/>
+    Wednesdays in <strong>HR 435</strong><br/>
     <i class="fa-fw fas fa-clock"></i>
     4:45 &ndash; 6:25pm<br/>
     <i class="fa-fw fas fa-signal-stream"></i>
@@ -47,8 +47,8 @@ The course instructor and office hours will be as follows:
       <!-- nested columns for profile photo -->
       <div class="columns is-mobile is-variable is-1">
         <div class="column is-narrow">
-          <div class="image is-128x128">
-            <img class="is-rounded" src="{{ "/images/rollins.jpg" | relative_url }}">
+          <div class="image is-64x64">
+            <img class="is-rounded" src="/images/rollins.jpg" />
           </div>
         </div>
 
@@ -70,21 +70,21 @@ The course instructor and office hours will be as follows:
           <a href="//srollins.cs.usfca.edu">srollins.cs.usfca.edu</a>
         </div>
       </div>
-
       <!-- end nested columns -->
     </div>
   </div>
 
-  <div class="box">
-    <!-- nested columns for profile photo -->
-    <div class="columns is-mobile is-variable is-1">
-      <div class="column is-narrow">
-        <div class="image is-128x128">
-          <img class="is-rounded" src="{{ "/images/malensek.jpg" | relative_url }}">
+  <div class="column is-narrow">
+    <div class="box">
+      <!-- nested columns for profile photo -->
+      <div class="columns is-mobile is-variable is-1">
+        <div class="column is-narrow">
+          <div class="image is-64x64">
+            <img class="is-rounded" src="/images/malensek.jpg" />
+          </div>
         </div>
-      </div>
 
-      <div class="column">
+        <div class="column">
         <strong>Matthew Malensek</strong><br/>
         <i class="fa-fw fas fa-calendar-alt "></i>
         <span>Thursdays, 2:45pm &ndash; 4:15pm</span>
@@ -100,10 +100,10 @@ The course instructor and office hours will be as follows:
 
         <i class="fa-fw fas fa-globe "></i>
         <a href="http://www.cs.usfca.edu/~mmalensek/">cs.usfca.edu/~mmalensek</a>
+        </div>
       </div>
+      <!-- end nested columns -->
     </div>
-
-    <!-- end nested columns -->
   </div>
 </div>
 
@@ -147,6 +147,7 @@ We will not have a final exam in this class. Students must instead attend CS Nig
 
 This section discusses what the students can expect to learn in this course and how the learning outcomes for this course will be assessed.
 
+
 ### Learning Outcomes
 
 Students who complete the Career Mentoring and Professional Identity Development course will be able to:
@@ -157,9 +158,18 @@ Students who complete the Career Mentoring and Professional Identity Development
 * Identify ways in which they are or could be recognized as computer scientists by others.
 * Identify resources to aid in the development of the knowledge, skills, and abilities necessary to meet their career goals.
 
+
 ### Course Topics
 
-The majority of class time is dedicated to guest lectures. Topics fall into one of three categories: department community, university community, or local community.
+The course will provide students the opportunity to meet with alumni mentors from industry and will cover several aspects of professional identity development. Topics include defining and building identity, CS disciplines and knowledge areas, and imposterism. Some of the questions we'll explore include the following:
+
+* What does the field of computing include? How do the subfields of computing fit together?
+* Who are computing professionals? What are their roles, and what do they do in their work?
+* How does one learn to speak the language of a computer scientist?
+* How does one develop the skills to practice the computing profession?
+
+We will discuss these topics as a class as well as with the alumni mentors.
+
 
 ### Grading Breakdown
 
@@ -188,9 +198,16 @@ Students must attend at least 60% of all classes to pass this course.
 
 ##### Participation Assignments
 
-Students must complete weekly pass/fail participation assignments throughout the semester. Example assignments include posting questions for an invited speaker, providing presentation feedback, and responding to surveys and in-class polls.
+Students must complete weekly pass/fail participation assignments throughout the semester. Example assignments include writing reflections, responding to discussion prompts, providing presentation feedback, and responding to surveys and in-class polls.
 
 ##### Mentor Meetings
+
+Students will be paired with a USF alumni mentor and will schedule a check-in with the mentor at least once a month during the 2021-22 academic year. Suggested discussion topics will be provided, but the student and mentor are encouraged to drive the conversations wherever they see fit. Topics could include strategies for finding an internship, imposterism, interviewing tips, day-to-day experiences as a software engineer/product manager/tech lead/etc., or even technical topics.
+
+Students will receive credit for:
+* Scheduling and preparing for a meeting each month
+* Attending the meeting
+* Reflections and discussions after the meeting
 
 
 ##### Community Engagement
@@ -204,7 +221,7 @@ This also involves participating in the annual CS Night celebration at the end o
 
 ##### Class Presentation
 
-Students must complete a 10 minute in-class presentation on a significant figure, organization, or event in Computer Science. This category includes several pass/fail assignments: selecting a presentation topic, submitting slides (or other presentation materials) ahead of time, optionally visiting the Speaking Center in preparation for the presentation, and delivering the presentation in class.
+Students must complete  .....
 
 
 ### Grading Scale
@@ -239,12 +256,6 @@ See the [Undergraduate Student Regulations](https://catalog.usfca.edu/content.ph
 
 This section includes miscellaneous policies specific to this course, including communication, attendance, credit hours, cheating, and more. These policies are in addition to the standard USF policies included later.
 
-### Communication Policy
-
-Email will NOT be used for communication in this course.
-
-Instead, please see how best to communicate depending on whether you wish to communicate synchronously (live, simultaneously, in real time) or asynchronously (on your own time, without immediate responses or feedback).
-
 ### Student Conduct
 
 Students are required to adhere to the University's [Student Code of Conduct](https://myusf.usfca.edu/fogcutter/student-conduct). In short, students are expected to treat each other with respect at all times.
@@ -261,16 +272,8 @@ By default, late submissions are not accepted. However, students may request an 
 
 ### Cheating Policy
 
-All students are expected to know and adhere to the University’s Honor Code (see the [Academic Integrity](#academic-integrity) section below). In short, students must never misrepresent their work. Examples of honor code violations include (but are not limited to):
+All students are expected to know and adhere to the University’s Honor Code (see the [Academic Integrity](#academic-integrity) section below). In short, students must never misrepresent their work.  Flagrant or repeat violations of the honor code will result in an F in the course, a report to the Academic Integrity Committee (AIC), and a report to the Dean.
 
-  - Lying about your attendance or participation in outside of class activities
-  - Having anyone other than yourself complete your work
-  - (including classmates and tutors)
-  - Copying and pasting content without attribution from the web (or from anywhere)
-
-**Flagrant or repeat violations of the honor code will result in an F in the course, a report to the Academic Integrity Committee (AIC), and a report to the Dean.**{: .has-text-danger }
-
-At the discretion of the instructor, a less severe penalty may be imposed for minor or first offenses. This usually involves receiving a 0% on the assignment with no opportunity to make up the lost points, as well as a report to the department chair and your academic advisors. This is at the sole discretion of the instructor and any violation may result in an F in the course. See also the [Regret Clause](#regret-clause) below.
 
 ### Credit Hour Policy
 
@@ -278,11 +281,6 @@ The official [USF Credit Hour Policy](https://myusf.usfca.edu/sites/default/file
   > "One unit of credit in lecture, seminar, and discussion work should approximate one hour of direct faculty instruction and a minimum of two hours of out-of-class student work per week through one 15-week semester."
 
 Students should expect to spend approximately 1 hour on out-of-class work every week, with some weeks requiring more out-of-class time. See the [Community Engagement](#community-engagement) requirements for out-of-class expectations over the semester.
-
-## Policy Exceptions
-{: .page-header }
-
-Life sometimes (often?) interferes with learning. Several exceptions to course policies will be granted AUTOMATICALLY upon request. These exceptions are requested by making a private post on Piazza within the required timeframe. See the following sections for additional details.
 
 ## University Policies
 {: .page-header }
