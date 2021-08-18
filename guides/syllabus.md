@@ -168,14 +168,15 @@ The course will provide students the opportunity to meet with alumni mentors fro
 * How does one learn to speak the language of a computer scientist?
 * How does one develop the skills to practice the computing profession?
 
-We will discuss these topics as a class as well as with the alumni mentors.
+We will discuss these topics as a class as well as with alumni mentors.
 
 
 ### Grading Breakdown
 
 The course requirements are broken into several categories. Students must earn above a 60% in each category to pass the course.
 
-**If one or more categories fall below 60%, then an “F” letter grade is automatically assigned regardless of the percentage score.**{ .has-text-danger }
+**If one or more categories fall below 60%, then an “F” letter grade is automatically assigned regardless of the percentage score.**
+{: .has-text-danger }
 
 As long as all categories remain above a 60%, the final grade is determined by the following breakdown:
 
@@ -228,7 +229,8 @@ Students must complete  .....
 
 Students must earn above a 60% in each category to pass the course.
 
-**If one or more categories fall below 60%, then an “F” letter grade is automatically assigned regardless of the percentage score.**{ .has-text-danger }
+**If one or more categories fall below 60%, then an “F” letter grade is automatically assigned regardless of the percentage score.**
+{: .has-text-danger }
 
 As long as all grade categories remain above a 60%, the final grade is determined by the following letter grade and GPA scale:
 
@@ -268,7 +270,7 @@ Students must attend at least 60% of all classes to pass this course. See the [G
 
 ### Late Policy
 
-By default, late submissions are not accepted. However, students may request an exception to this policy. See the [Policy Exceptions](#policy-exceptions) section below for details.
+By default, late submissions are not accepted. However, students may request an exception to this policy for excused absences/activities.
 
 ### Cheating Policy
 
@@ -301,11 +303,7 @@ USF upholds the standards of honesty and integrity from all members of the acade
 
 ### Communication
 
-~~All course communications, like all other USF communications, will be sent to your USF official email address. You are therefore strongly encouraged to monitor that email account.~~
-
-<i class="fas fa-info-circle"></i>
-See the [Communication Policy](#communication-policy) for this course above.
-{: class="notification" markdown="1"}
+All course communications, like all other USF communications, will be sent to your USF official email address. You are therefore strongly encouraged to monitor that email account.
 
 ### Counseling and Psychological Services (CAPS)
 
