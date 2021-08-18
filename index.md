@@ -75,11 +75,6 @@ title: Welcome
 </div>
 {% endcomment %}
 
-<div class="notification is-danger">
-  <button class="delete"></button>
-  <p>All instruction for Fall 2020 will be conducted remotely via Zoom. See the <a href="https://myusf.usfca.edu/covid">USF Remote</a> page for more resources related to the ongoing COVID-19 pandemic.</p>
-</div>
-
 {{ site.description }}
 
 Classes are livestreamed on **Fridays** from **1:00pm&ndash;2:45pm** via [Zoom]({{ site.zoom }}).
@@ -124,17 +119,3 @@ document.addEventListener('DOMContentLoaded', () => {
   });
 });
 </script>
-
-{% comment %}
-<script src="https://cdn.jsdelivr.net/npm/bulma-carousel@4.0.4/dist/js/bulma-carousel.min.js"></script>
-<script>
-bulmaCarousel.attach('#field-trips', {
-  slidesToScroll: 1,
-  slidesToShow: 2,
-  infinite: true,
-  autoplay: true,
-  duration: 2000,
-  pauseOnHover: true
-});
-</script>
-{% endcomment %}
