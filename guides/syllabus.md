@@ -48,7 +48,7 @@ The course instructor and office hours will be as follows:
       <div class="columns is-mobile is-variable is-1">
         <div class="column is-narrow">
           <div class="image is-64x64">
-            <img class="is-rounded" src="/images/rollins.jpg" />
+            <img class="is-rounded" src="./images/rollins.jpg" />
           </div>
         </div>
 
@@ -80,7 +80,7 @@ The course instructor and office hours will be as follows:
       <div class="columns is-mobile is-variable is-1">
         <div class="column is-narrow">
           <div class="image is-64x64">
-            <img class="is-rounded" src="/images/malensek.jpg" />
+            <img class="is-rounded" src="./images/malensek.jpg" />
           </div>
         </div>
 
