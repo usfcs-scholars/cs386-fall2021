@@ -22,9 +22,10 @@ This course meets once a week as follows:
 
 <div class="columns">
   <div class="column is-narrow">
-    <strong>CS 386-01 (CRN XXXXX)</strong><br/>
+    <strong>CS 386-01 (CRN 42484)</strong><br/>
+    <strong>Modality:</strong> Hybrid
     <i class="fa-fw fas fa-calendar-alt"></i>
-    Wednesdays<br/>
+    Wednesdays in HR 435<br/>
     <i class="fa-fw fas fa-clock"></i>
     4:45 &ndash; 6:25pm<br/>
     <i class="fa-fw fas fa-signal-stream"></i>
@@ -34,7 +35,7 @@ This course meets once a week as follows:
 
 Some activities may occur outside of the scheduled class time. These will be announced on [Campuswire]({{ page.campuswire }}).
 
-See the [Getting Started With Zoom](getting-started-with-zoom.html) guide for how to download, install, login, and properly use Zoom.
+Since this course will be taught with in the hybrid modality, some activities will conducted over Zoom.  See the [Getting Started With Zoom](getting-started-with-zoom.html) guide for how to download, install, login, and properly use Zoom.
 
 ### Instructors
 
@@ -72,38 +73,37 @@ The course instructor and office hours will be as follows:
 
       <!-- end nested columns -->
     </div>
+  </div>
 
-    <div class="box">
-      <!-- nested columns for profile photo -->
-      <div class="columns is-mobile is-variable is-1">
-        <div class="column is-narrow">
-          <div class="image is-128x128">
-            <img class="is-rounded" src="{{ "/images/malensek.jpg" | relative_url }}">
-          </div>
-        </div>
-
-        <div class="column">
-          <strong>Matthew Malensek</strong><br/>
-          <i class="fa-fw fas fa-calendar-alt "></i>
-          <span>Thursdays, 2:45pm &ndash; 4:15pm</span>
-          <br/>
-
-          <i class="fa-fw fas fa-calendar-alt "></i>
-          <span>Fridays, 11:00pm &ndash; 12:30pm</span>
-          <br/>
-
-          <i class="fa-fw fas fa-signal-stream "></i>
-          Zoom: <a href="https://usfca.zoom.us/j/98397885780">983 9788 5780</a>
-          <br/>
-
-          <i class="fa-fw fas fa-globe "></i>
-          <a href="http://www.cs.usfca.edu/~mmalensek/">cs.usfca.edu/~mmalensek</a>
+  <div class="box">
+    <!-- nested columns for profile photo -->
+    <div class="columns is-mobile is-variable is-1">
+      <div class="column is-narrow">
+        <div class="image is-128x128">
+          <img class="is-rounded" src="{{ "/images/malensek.jpg" | relative_url }}">
         </div>
       </div>
 
-      <!-- end nested columns -->
+      <div class="column">
+        <strong>Matthew Malensek</strong><br/>
+        <i class="fa-fw fas fa-calendar-alt "></i>
+        <span>Thursdays, 2:45pm &ndash; 4:15pm</span>
+        <br/>
+
+        <i class="fa-fw fas fa-calendar-alt "></i>
+        <span>Fridays, 11:00pm &ndash; 12:30pm</span>
+        <br/>
+
+        <i class="fa-fw fas fa-signal-stream "></i>
+        Zoom: <a href="https://usfca.zoom.us/j/97257977977">972 5797 7977</a>
+        <br/>
+
+        <i class="fa-fw fas fa-globe "></i>
+        <a href="http://www.cs.usfca.edu/~mmalensek/">cs.usfca.edu/~mmalensek</a>
+      </div>
     </div>
 
+    <!-- end nested columns -->
   </div>
 </div>
 
@@ -205,10 +205,6 @@ This also involves participating in the annual CS Night celebration at the end o
 ##### Class Presentation
 
 Students must complete a 10 minute in-class presentation on a significant figure, organization, or event in Computer Science. This category includes several pass/fail assignments: selecting a presentation topic, submitting slides (or other presentation materials) ahead of time, optionally visiting the Speaking Center in preparation for the presentation, and delivering the presentation in class.
-
-<i class="fas fa-info-circle"></i>
-Accommodations will be made on request for students unable to present via Zoom.
-{: .notification }
 
 
 ### Grading Scale
