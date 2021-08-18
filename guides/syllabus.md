@@ -48,7 +48,7 @@ The course instructor and office hours will be as follows:
       <div class="columns is-mobile is-variable is-1">
         <div class="column is-narrow">
           <div class="image is-64x64">
-            <img class="is-rounded" src="./images/rollins.jpg" />
+            <img class="is-rounded" src="../images/rollins.jpg" />
           </div>
         </div>
 
@@ -80,7 +80,7 @@ The course instructor and office hours will be as follows:
       <div class="columns is-mobile is-variable is-1">
         <div class="column is-narrow">
           <div class="image is-64x64">
-            <img class="is-rounded" src="./images/malensek.jpg" />
+            <img class="is-rounded" src="../images/malensek.jpg" />
           </div>
         </div>
 
@@ -176,7 +176,6 @@ We will discuss these topics as a class as well as with alumni mentors.
 The course requirements are broken into several categories. Students must earn above a 60% in each category to pass the course.
 
 **If one or more categories fall below 60%, then an “F” letter grade is automatically assigned regardless of the percentage score.**
-{: .has-text-danger }
 
 As long as all categories remain above a 60%, the final grade is determined by the following breakdown:
 
@@ -230,7 +229,6 @@ Students must complete  .....
 Students must earn above a 60% in each category to pass the course.
 
 **If one or more categories fall below 60%, then an “F” letter grade is automatically assigned regardless of the percentage score.**
-{: .has-text-danger }
 
 As long as all grade categories remain above a 60%, the final grade is determined by the following letter grade and GPA scale:
 
