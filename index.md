@@ -77,9 +77,7 @@ title: Welcome
 
 {{ site.description }}
 
-Classes are livestreamed on **Fridays** from **1:00pm&ndash;2:45pm** via [Zoom]({{ site.zoom }}).
-
-[Getting Started Guide]({{ "/guides/getting-started.html" | relative_url }}){: .button .is-primary } &nbsp; [Join Livestream]({{ site.zoom }}){: .button .is-primary}
+Classes will be held in HR 435 from **4:45&ndash;6:25pm**.
 
 ## Upcoming Schedule
 
