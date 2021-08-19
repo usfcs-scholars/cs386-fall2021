@@ -66,49 +66,26 @@ weeks:
     - label: 'Wed 08/25 Lecture'
       items:
 
-        - text: 'Lecture Recording'
-          icon: *icon_video
-          link: 'https://usfca.zoom.us/rec/share/uMUlJKC3qHNLSJXh6WH7XvViPJW7eaa80HIXq_MKyk3L_zYa1da5GJxjR_5Ujw_f?startTime=1598039277000'
-
-        - text: 'Ask Me (Almost) Anything'
-          icon: *icon_participation
-          link: 'https://docs.google.com/presentation/d/e/2PACX-1vQACjLOP5oB4I1FtbVqV6VKZptouAx_3zw3y-JL3AKzlymEFPS1qEqDcMsQPenrZbfGTP4N4VlZh8cK/pub?start=false&loop=false&delayms=3000&slide=id.g5e1d929e1d_0_454'
-          type: 'bump'
-
-        - text: 'Course Introduction'
+        - text: 'First Class Session'
           icon: *icon_slides
-          link: 'https://docs.google.com/presentation/d/e/2PACX-1vR3lDIr3BAfXj0Vw1oSkMsHPYSorGuhYtWcaF6oHULhHIzxeAL2oPa19kJtOe0RE_sK0KpMwl29UwFC/pub?start=false&loop=false&delayms=3000'
 
         - text: 'Course Syllabus'
           icon: *icon_website
           link: 'guides/syllabus.html'
 
-        - text: 'Interactive Break'
-          icon:  *icon_break
-          link: 'break/'
-          type: 'bump'
-
         - text: 'Introductions'
           icon: *icon_participation
-          link: 'https://docs.google.com/presentation/d/e/2PACX-1vQzGGVaNHxkAUyDM24J7GlIXvokQJYACXytENd1HJTvjLY_9i2TXoDZZza8DrrPfDZhaEdTwZ-lOvNd/pub?start=false&loop=false&delayms=3000'
 
-    - label: 'Assignments/Deadlines'
+    - label: 'Deadlines & Materials'
       items:
         - text: 'Campuswire Setup'
           icon: *icon_assignment
           link: 'https://usfca.instructure.com/courses/1594618/assignments/6995266'
           date: 2020-08-27
 
-        - text: 'Photo Submission'
-          icon: *icon_assignment
-          link: 'https://usfca.instructure.com/courses/1594618/assignments/6957554'
-          date: 2020-08-27
-
-        - text: 'Share Event'
-          icon: *icon_assignment
-          link: 'https://usfca.instructure.com/courses/1594618/assignments/6995427'
-          date: 2020-12-04
-          type: 'bump'
+        - text: 'Reflection Instructions'
+          icon: *icon_guide
+          link: 'assignments/reflection_instructions.md'
 
 - week: 2
   date: 2020-08-29
@@ -116,56 +93,17 @@ weeks:
     - label: 'Wed 09/01 Lecture'
       items:
 
-        - text: 'Lecture Recording'
-          icon: *icon_video
-          link: 'https://usfca.zoom.us/rec/play/vJF5dLqo-zI3SNDAsgSDVqN_W43ve6ysgSkervIFyE_hUSULNVCnZ7oWZrBv9J5CCowBRvF6hZXoZw_r'
+        - text: 'Mentoring Kickoff'
+          icon: *icon_slides
 
-        - text: 'Linkedin Workshop'
-          icon: *icon_workshop
-          type: 'strong bump'
-          link: 'https://myusf.usfca.edu/career-services/get-linkedin'
-
-        - text: '<a href="https://myusf.usfca.edu/career-services/meet-staff">Juli-Anne Brockway</a>, <em>Career Counselor, Career Services Center</em>'
-          icon: *icon_nothing
-
-        - text: '(Download Slides)'
-          icon: *icon_nothing
-          link: 'https://drive.google.com/file/d/1sxdXpeGY1-NoS8JJc8R3H1drzGiU8MkJ/view?usp=sharing'
-
-        - text: 'About Presentations'
-          type: 'bump'
-          icon: *icon_guide
-
-        - text: 'LinkedIn Exercise'
-          icon: *icon_participation
-
-    - label: 'Assignments/Deadlines'
+    - label: 'Deadlines & Materials'
       items:
-        - text: 'LinkedIn Profile'
+        - text: 'Assignment 1: Online Portfolio'
           icon: *icon_assignment
-          link: 'https://usfca.instructure.com/courses/1594618/discussion_topics/7911402'
-          date: 2020-09-03
+          link: 'assignments/assignment_1.md'
+          date: 2020-09-01
 
-        - text: 'LinkedIn Network'
+        - text: 'Reflection 1'
           icon: *icon_assignment
-          link: 'https://usfca.instructure.com/courses/1594618/assignments/6973840'
-          date: 2020-09-03
-
-        - text: 'Panel Questions'
-          icon: *icon_assignment
-          type: 'bump'
-          date: 2020-09-03
-          link: 'https://usfca.instructure.com/courses/1594618/discussion_topics/7924078'
-
-        - text: 'Presentation Date'
-          icon: *icon_assignment
-          link: 'https://usfca.instructure.com/courses/1594618/assignments/6972922'
-          date: 2020-09-10
-          type: 'bump'
-
-        - text: 'Presentation Topic'
-          icon: *icon_assignment
-          date: 2020-09-17
-          link: 'https://usfca.instructure.com/courses/1594618/assignments/6980278'
-
+          link: 'assignments/reflection_1.md'
 
