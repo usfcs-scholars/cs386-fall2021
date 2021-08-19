@@ -2,7 +2,7 @@
 
 The following mentors have graciously agreed to participate in the CES mentoring program during the 2021-22 academic year. They represent a wealth of experience and wide variety of industry expertise covering the full spectrum of the CS field.
 
-<div style="max-width: 700px; margin-left: 5%">
+<div style="max-width: 600px; margin-left: 5%">
 
   <!-- Begin Mentor -->
   <div class="box">
@@ -102,5 +102,3 @@ The following mentors have graciously agreed to participate in the CES mentoring
 
 
  </div>
-
-
