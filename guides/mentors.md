@@ -36,12 +36,32 @@ The following mentors have graciously agreed to participate in the CES mentoring
       <div class="column">
         <strong>Ted Bisson</strong><br/>
         Senior Software Engineer<br/>
-        Google, Inc.<br/>
+        Google<br/>
         <a href="https://www.linkedin.com/in/tedbisson/">LinkedIn</a>
       </div>
     </div>
   </div>
   <!-- End Mentor -->
+
+  <!-- Begin Mentor -->
+  <div class="box">
+    <div class="columns is-mobile is-variable is-1">
+      <div class="column is-narrow">
+        <div class="image is-128x128">
+          <img class="is-rounded" src="../images/buckley.jpg" />
+        </div>
+      </div>
+
+      <div class="column">
+        <strong>India Buckley</strong><br/>
+        Software Engineer<br/>
+        Microsoft<br/>
+        <a href="https://www.linkedin.com/in/ibbecknell/">LinkedIn</a>
+      </div>
+    </div>
+  </div>
+  <!-- End Mentor -->
+
 
  </div>
 
