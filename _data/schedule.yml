@@ -122,7 +122,7 @@ weeks:
     - label: 'Wed 09/08'
       items:
 
-        - text: 'Mentor Pairings Announced'
+        - text: 'Announcing Mentor Pairings'
           icon: *icon_slides
 
         - text: 'Discussion/Feedback on Assignment 1'
