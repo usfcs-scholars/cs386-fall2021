@@ -57,15 +57,19 @@ The course instructor and office hours will be as follows:
         <div class="column">
           <strong>Sami Rollins</strong><br/>
           <i class="fa-fw fas fa-calendar-alt "></i>
-          <span>Thursdays, 2:45pm &ndash; 4:15pm</span>
+          <span>Tuesdays, 5:15pm &dash; 6:15pm</span>
           <br/>
 
           <i class="fa-fw fas fa-calendar-alt "></i>
-          <span>Fridays, 11:00pm &ndash; 12:30pm</span>
+          <span>Wednesdays, 1:30pm &ndash; 3:00pm</span>
+          <br/>
+
+          <i class="fa-fw fas fa-calendar-alt "></i>
+          <span>Thursdays, 9:15am &dash; 9:45am</span>
           <br/>
 
           <i class="fa-fw fas fa-signal-stream "></i>
-          Zoom: <a href="https://usfca.zoom.us/j/98397885780">983 9788 5780</a>
+          Zoom: <a href="https://usfca.zoom.us/j/81328665253">813 2866 5253</a>
           <br/>
 
           <i class="fa-fw fas fa-globe "></i>
