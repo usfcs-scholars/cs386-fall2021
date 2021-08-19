@@ -218,7 +218,7 @@ Students will receive credit for:
 
 ##### Community Engagement
 
-Students must attend community engagement activities outside of class. Participation in these activities makes up the majority of the out-of-class work required for this class.
+Students must attend community engagement activities outside of class. Participation in these activities makes up the majority of the out-of-class work required for this class. To earn credit, completion of these activities must be [documented as part of your portfolio](https://scholars.cs.usfca.edu/cs386-fall2021/assignments/community_engagement.html).
 
 This includes participating in at least one event offered by the CS department (other than CS Night), at least one event offered by the University, and at least one event offered by the local SF Bay Area or technical communities.
 
