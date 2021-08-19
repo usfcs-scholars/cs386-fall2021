@@ -223,7 +223,10 @@ This also involves participating in the annual CS Night celebration at the end o
 
 ##### Class Presentation
 
-Students must complete  .....
+To help everyone get more comfortable at presenting technical topics, students will prepare a 20 minute presentation (including time for discussion). While the topic of the presentation must be technical in nature, students will be given freedom to select the topic based on their own interests. A few possibilities:
+1. Present an article about a tech-related topic (e.g., algorithmic bias)
+1. Present a technical tool (e.g., a new programming language, cloud service, etc.)
+1. Present a helpful resource (programming resources, interview tips and prep, podcasts, etc.)
 
 
 ### Grading Scale
