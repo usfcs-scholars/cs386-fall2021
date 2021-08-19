@@ -3,9 +3,11 @@ layout: schedule
 title: Welcome
 ---
 
-Welcome to CS 386 -- {{ site.title }}! {{ site.description }}
+Welcome to CS 386 -- {{ site.title }}! This course gives students the opportunity to engage with alumni mentors from industry and develop their identities as computing professionals.
 
-{{ site.coordinates }}
+Computer science is a broad, diverse field. No matter your background, your hobbies, or your working style, computer science has a place for you. Finding that place and navigating the field may seem daunting at times, but we aim to build a support structure through classmates, peers, teachers, and mentors to make the journey easier.
+
+Classes will be held in HR 435 from **4:45&ndash;6:25pm**.
 
 ## Upcoming Schedule
 
