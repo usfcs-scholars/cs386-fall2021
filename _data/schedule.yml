@@ -147,3 +147,30 @@ weeks:
         - text: 'Building Identity as a Computing Professional'
           icon: *icon_slides
 
+- week: 5
+  date: 2020-09-19
+  columns:
+    - label: 'Wed 09/22'
+      items:
+
+        - text: 'Reflecting on our first mentor meeting'
+          icon: *icon_slides
+
+- week: 6
+  date: 2020-09-26
+  columns:
+    - label: 'Wed 09/29'
+      items:
+
+        - text: 'CS Related Disciplines and Knowledge Areas'
+          icon: *icon_slides
+
+- week: 7
+  date: 2020-10-3
+  columns:
+    - label: 'Wed 10/06'
+      items:
+
+        - text: 'Imposterism'
+          icon: *icon_slides
+
