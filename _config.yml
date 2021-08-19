@@ -10,3 +10,8 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-feed
+
+titles_from_headings:
+  enabled:     true
+  strip_title: true
+  collections: false
