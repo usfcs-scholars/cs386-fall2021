@@ -3,81 +3,9 @@ layout: schedule
 title: Welcome
 ---
 
-{% comment %}
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma-carousel@4.0.4/dist/css/bulma-carousel.min.css">
+Welcome to CS 386 -- {{ site.title }}! {{ site.description }}
 
-<style>
-.slider-container {
-  margin-bottom: 1rem;
-  background-color: whitesmoke;
-}
-
-.slider-item {
-  border: 3px solid white;
-}
-
-.carousel .card {
-  box-shadow: unset;
-  background-color: whitesmoke;
-}
-
-.carousel .card-content {
-  font-size: 0.8rem;
-  padding: 0.5rem 1.0rem;
-  background-color: whitesmoke;
-}
-</style>
-
-<div id="field-trips" class="carousel">
-  <div class="item-1">
-    <div class="card">
-      <div class="card-image">
-        <img class="image" src="images/autodesk2019.jpg"/>
-      </div>
-      <div class="card-content">
-        Students at the <a href="https://www.autodesk.com/technology-centers/san-francisco">AutoDesk Technology Center</a> field trip as part of the <a href="https://scholars.cs.usfca.edu/cs186-fall2019/">Community Engaged CS</a> course in 2019.
-      </div>
-    </div>
-  </div>
-
-  <div class="item-2">
-    <div class="card">
-      <div class="card-image">
-        <img class="image" src="images/lyft2019.jpg"/>
-      </div>
-      <div class="card-content">
-        Students at the <a href="https://www.lyft.com/careers">Lyft</a> field trip as part of the <a href="https://scholars.cs.usfca.edu/cs186-fall2019/">Community Engaged CS</a> course in 2019.
-      </div>
-    </div>
-  </div>
-
-  <div class="item-3">
-    <div class="card">
-      <div class="card-image">
-        <img class="image" src="images/github2019.jpg"/>
-      </div>
-      <div class="card-content">
-        <a href="https://twitter.com/bdougieYO">Brian Douglas</a>, Developer Advocate at Github.com, speaking to students as part of the <a href="https://scholars.cs.usfca.edu/cs186-fall2019/">Community Engaged CS</a> course in 2019.
-      </div>
-    </div>
-  </div>
-
-  <div class="item-4">
-    <div class="card">
-      <div class="card-image">
-        <img class="image" src="images/autodesk_inside2019.jpg"/>
-      </div>
-      <div class="card-content">
-        Students at the <a href="https://www.autodesk.com/technology-centers/san-francisco">AutoDesk Technology Center</a> field trip as part of the <a href="https://scholars.cs.usfca.edu/cs186-fall2019/">Community Engaged CS</a> course in 2019.
-      </div>
-    </div>
-  </div>  
-</div>
-{% endcomment %}
-
-{{ site.description }}
-
-Classes will be held in HR 435 from **4:45&ndash;6:25pm**.
+{{ site.coordinates }}
 
 ## Upcoming Schedule
 

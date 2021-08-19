@@ -11,7 +11,9 @@ canvas: "https://usfca.instructure.com/courses/1603246"
 #### Fall 2021 &bull; CS 386-01 &bull; 2 Credits
 {: .subtitle .has-text-weight-light }
 
-This course ...
+This course gives students the opportunity to engage with alumni mentors from industry and develop their identities as computing professionals.
+
+Computer science is a broad, diverse field. No matter your background, your hobbies, or your working style, computer science has a place for you. Finding that place and navigating the field may seem daunting at times, but we aim to build a support structure through classmates, peers, teachers, and mentors to make the journey easier.
 
 ## Course Information
 {: .page-header }
