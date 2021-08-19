@@ -5,159 +5,44 @@ The following mentors have graciously agreed to participate in the CES mentoring
 <div style="max-width: 700px; margin-left: 5%">
 
   <!-- Begin Mentor -->
-    <div class="box">
-      <div class="columns is-mobile is-variable is-1">
-        <div class="column is-narrow">
-          <div class="image is-128x128">
-            <img class="is-rounded" src="../images/bisson.jpg" />
-          </div>
+  <div class="box">
+    <div class="columns is-mobile is-variable is-1">
+      <div class="column is-narrow">
+        <div class="image is-128x128">
+          <img class="is-rounded" src="../images/baybay.jpg" />
         </div>
+      </div>
 
-        <div class="column">
+      <div class="column">
+        <strong>Melanie Baybay</strong><br/>
+        Software Engineer<br/>
+        Stride Health<br/>
+        <a href="https://www.linkedin.com/in/mbaybay/">LinkedIn</a>
+      </div>
+    </div>
+  </div>
+  <!-- End Mentor -->
+
+
+  <!-- Begin Mentor -->
+  <div class="box">
+    <div class="columns is-mobile is-variable is-1">
+      <div class="column is-narrow">
+        <div class="image is-128x128">
+          <img class="is-rounded" src="../images/bisson.jpg" />
+        </div>
+      </div>
+
+      <div class="column">
         <strong>Ted Bisson</strong><br/>
         Senior Software Engineer<br/>
         Google, Inc.<br/>
-        https://www.linkedin.com/in/tedbisson/
+        <a href="https://www.linkedin.com/in/tedbisson/">LinkedIn</a>
       </div>
     </div>
+  </div>
   <!-- End Mentor -->
 
-  <!-- Begin Mentor -->
-    <div class="box">
-      <div class="columns is-mobile is-variable is-1">
-        <div class="column is-narrow">
-          <div class="image is-128x128">
-            <img class="is-rounded" src="../images/rollins.jpg" />
-          </div>
-        </div>
-
-        <div class="column">
-          <strong>Sami Rollins</strong><br/>
-          <i class="fa-fw fas fa-calendar-alt "></i>
-          <span>Tuesdays, 5:15pm &dash; 6:15pm</span>
-          <br/>
-
-          <i class="fa-fw fas fa-calendar-alt "></i>
-          <span>Wednesdays, 1:30pm &ndash; 3:00pm</span>
-          <br/>
-
-          <i class="fa-fw fas fa-calendar-alt "></i>
-          <span>Thursdays, 9:15am &dash; 9:45am</span>
-          <br/>
-
-          <i class="fa-fw fas fa-signal-stream "></i>
-          Zoom: <a href="https://usfca.zoom.us/j/81328665253">813 2866 5253</a>
-          <br/>
-
-          <i class="fa-fw fas fa-globe "></i>
-          <a href="//srollins.cs.usfca.edu">srollins.cs.usfca.edu</a>
-        </div>
-      </div>
-    </div>
-  <!-- End Mentor -->
-
-  <!-- Begin Mentor -->
-    <div class="box">
-      <div class="columns is-mobile is-variable is-1">
-        <div class="column is-narrow">
-          <div class="image is-128x128">
-            <img class="is-rounded" src="../images/rollins.jpg" />
-          </div>
-        </div>
-
-        <div class="column">
-          <strong>Sami Rollins</strong><br/>
-          <i class="fa-fw fas fa-calendar-alt "></i>
-          <span>Tuesdays, 5:15pm &dash; 6:15pm</span>
-          <br/>
-
-          <i class="fa-fw fas fa-calendar-alt "></i>
-          <span>Wednesdays, 1:30pm &ndash; 3:00pm</span>
-          <br/>
-
-          <i class="fa-fw fas fa-calendar-alt "></i>
-          <span>Thursdays, 9:15am &dash; 9:45am</span>
-          <br/>
-
-          <i class="fa-fw fas fa-signal-stream "></i>
-          Zoom: <a href="https://usfca.zoom.us/j/81328665253">813 2866 5253</a>
-          <br/>
-
-          <i class="fa-fw fas fa-globe "></i>
-          <a href="//srollins.cs.usfca.edu">srollins.cs.usfca.edu</a>
-        </div>
-      </div>
-    </div>
-  <!-- End Mentor -->
-
-  <!-- Begin Mentor -->
-    <div class="box">
-      <div class="columns is-mobile is-variable is-1">
-        <div class="column is-narrow">
-          <div class="image is-128x128">
-            <img class="is-rounded" src="../images/rollins.jpg" />
-          </div>
-        </div>
-
-        <div class="column">
-          <strong>Sami Rollins</strong><br/>
-          <i class="fa-fw fas fa-calendar-alt "></i>
-          <span>Tuesdays, 5:15pm &dash; 6:15pm</span>
-          <br/>
-
-          <i class="fa-fw fas fa-calendar-alt "></i>
-          <span>Wednesdays, 1:30pm &ndash; 3:00pm</span>
-          <br/>
-
-          <i class="fa-fw fas fa-calendar-alt "></i>
-          <span>Thursdays, 9:15am &dash; 9:45am</span>
-          <br/>
-
-          <i class="fa-fw fas fa-signal-stream "></i>
-          Zoom: <a href="https://usfca.zoom.us/j/81328665253">813 2866 5253</a>
-          <br/>
-
-          <i class="fa-fw fas fa-globe "></i>
-          <a href="//srollins.cs.usfca.edu">srollins.cs.usfca.edu</a>
-        </div>
-      </div>
-    </div>
-  <!-- End Mentor -->
-
-  <!-- Begin Mentor -->
-    <div class="box">
-      <div class="columns is-mobile is-variable is-1">
-        <div class="column is-narrow">
-          <div class="image is-128x128">
-            <img class="is-rounded" src="../images/rollins.jpg" />
-          </div>
-        </div>
-
-        <div class="column">
-          <strong>Sami Rollins</strong><br/>
-          <i class="fa-fw fas fa-calendar-alt "></i>
-          <span>Tuesdays, 5:15pm &dash; 6:15pm</span>
-          <br/>
-
-          <i class="fa-fw fas fa-calendar-alt "></i>
-          <span>Wednesdays, 1:30pm &ndash; 3:00pm</span>
-          <br/>
-
-          <i class="fa-fw fas fa-calendar-alt "></i>
-          <span>Thursdays, 9:15am &dash; 9:45am</span>
-          <br/>
-
-          <i class="fa-fw fas fa-signal-stream "></i>
-          Zoom: <a href="https://usfca.zoom.us/j/81328665253">813 2866 5253</a>
-          <br/>
-
-          <i class="fa-fw fas fa-globe "></i>
-          <a href="//srollins.cs.usfca.edu">srollins.cs.usfca.edu</a>
-        </div>
-      </div>
-    </div>
-  <!-- End Mentor -->
-
-</div>
+ </div>
 
 
