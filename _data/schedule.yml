@@ -63,7 +63,7 @@ weeks:
 - week: 1
   date: 2021-08-22
   columns:
-    - label: 'Wed 08/25 Lecture'
+    - label: 'Wed 08/25'
       items:
 
         - text: 'First Class Session'
@@ -85,12 +85,21 @@ weeks:
 
         - text: 'Reflection Instructions'
           icon: *icon_guide
-          link: 'assignments/reflection_instructions.md'
+          link: 'assignments/reflection_instructions.html'
+
+        - text: 'Guide for Mentors'
+          icon: *icon_guide
+          link: 'guides/mentors.html'
+
+        - text: 'Guide for Mentees'
+          icon: *icon_guide
+          link: 'guides/mentees.html'
+
 
 - week: 2
   date: 2020-08-29
   columns:
-    - label: 'Wed 09/01 Lecture'
+    - label: 'Wed 09/01'
       items:
 
         - text: 'Mentoring Kickoff'
@@ -100,10 +109,41 @@ weeks:
       items:
         - text: 'Assignment 1: Online Portfolio'
           icon: *icon_assignment
-          link: 'assignments/assignment_1.md'
+          link: 'assignments/assignment_1.html'
           date: 2020-09-01
 
         - text: 'Reflection 1'
           icon: *icon_assignment
-          link: 'assignments/reflection_1.md'
+          link: 'assignments/reflection_1.html'
+
+- week: 3
+  date: 2020-09-05
+  columns:
+    - label: 'Wed 09/08'
+      items:
+
+        - text: 'Mentor Pairings Announced'
+          icon: *icon_slides
+
+        - text: 'Discussion/Feedback on Assignment 1'
+          icon: *icon_slides
+
+    - label: 'Deadlines & Materials'
+      items:
+        - text: 'Assignment 2: Mentor Questions'
+          icon: *icon_assignment
+          date: 2020-09-08
+
+        - text: 'Schedule First Mentor Meeting'
+          icon: *icon_assignment
+          date: 2020-09-10
+
+- week: 4
+  date: 2020-09-12
+  columns:
+    - label: 'Wed 09/15'
+      items:
+
+        - text: 'Building Identity as a Computing Professional'
+          icon: *icon_slides
 
