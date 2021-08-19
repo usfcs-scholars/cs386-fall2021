@@ -81,7 +81,7 @@ The course instructor and office hours will be as follows:
       <!-- nested columns for profile photo -->
       <div class="columns is-mobile is-variable is-1">
         <div class="column is-narrow">
-          <div class="image is-64x64">
+          <div class="image is-128x128">
             <img class="is-rounded" src="../images/malensek.jpg" />
           </div>
         </div>
