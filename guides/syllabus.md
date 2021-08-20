@@ -93,11 +93,11 @@ The course instructor and office hours will be as follows:
         <div class="column">
         <strong>Matthew Malensek</strong><br/>
         <i class="fa-fw fas fa-calendar-alt "></i>
-        <span>Thursdays, 2:45pm &ndash; 4:15pm</span>
+        <span>Tues &amp; Thurs 4:00pm &ndash; 5:00pm</span>
         <br/>
 
         <i class="fa-fw fas fa-calendar-alt "></i>
-        <span>Fridays, 11:00pm &ndash; 12:30pm</span>
+        <span>Weds &amp; Fri 11:00am &ndash; 12:00pm</span>
         <br/>
 
         <i class="fa-fw fas fa-signal-stream "></i>
