@@ -13,7 +13,7 @@ Classes will be held in HR 435 from **4:45&ndash;6:25pm**.
 
 {%- assign today_date = 'now' | date: '%Y-%m-%d' -%}
 {%- assign today = today_date | date: '%s'| abs -%}
-{%- assign beg_date = '2020-08-18' | date: '%s' | abs -%}
+{%- assign beg_date = '2021-08-22' | date: '%s' | abs -%}
 {%- assign beg_index = 0 -%}
 
 {%- if today > beg_date -%}
