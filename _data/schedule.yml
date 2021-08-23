@@ -81,7 +81,7 @@ weeks:
         - text: 'Campuswire Setup'
           icon: *icon_assignment
           link: 'https://usfca.instructure.com/courses/1594618/assignments/6995266'
-          date: 2020-08-27
+          date: 2021-08-27
 
         - text: 'Reflection Instructions'
           icon: *icon_guide
@@ -97,7 +97,7 @@ weeks:
 
 
 - week: 2
-  date: 2020-08-29
+  date: 2021-08-29
   columns:
     - label: 'Wed 09/01'
       items:
@@ -110,14 +110,14 @@ weeks:
         - text: 'Assignment 1: Online Portfolio'
           icon: *icon_assignment
           link: 'assignments/assignment_1.html'
-          date: 2020-09-01
+          date: 2021-09-01
 
         - text: 'Reflection 1'
           icon: *icon_assignment
           link: 'assignments/reflection_1.html'
 
 - week: 3
-  date: 2020-09-05
+  date: 2021-09-05
   columns:
     - label: 'Wed 09/08'
       items:
@@ -132,14 +132,14 @@ weeks:
       items:
         - text: 'Assignment 2: Mentor Questions'
           icon: *icon_assignment
-          date: 2020-09-08
+          date: 2021-09-08
 
         - text: 'Schedule First Mentor Meeting'
           icon: *icon_assignment
-          date: 2020-09-10
+          date: 2021-09-10
 
 - week: 4
-  date: 2020-09-12
+  date: 2021-09-12
   columns:
     - label: 'Wed 09/15'
       items:
@@ -148,7 +148,7 @@ weeks:
           icon: *icon_slides
 
 - week: 5
-  date: 2020-09-19
+  date: 2021-09-19
   columns:
     - label: 'Wed 09/22'
       items:
@@ -157,7 +157,7 @@ weeks:
           icon: *icon_slides
 
 - week: 6
-  date: 2020-09-26
+  date: 2021-09-26
   columns:
     - label: 'Wed 09/29'
       items:
@@ -166,7 +166,7 @@ weeks:
           icon: *icon_slides
 
 - week: 7
-  date: 2020-10-3
+  date: 2021-10-3
   columns:
     - label: 'Wed 10/06'
       items:
