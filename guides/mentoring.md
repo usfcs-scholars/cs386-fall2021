@@ -33,15 +33,23 @@ things in common:
 * Many may not already have a personal connection in the tech industry
 * They are entering their third year of their CS degree, meaning that
   internships, upper-division courses, and ultimately the job market are on the
-  horizon
+  horizon.
+
+## The Mentors
+
+Our mentors are all USF alumni. They too have a variety of backgrounds and specializations, and we are **incredibly** grateful that they have agreed to be a part of this program!
+
+Giving students a contact inside the industry they hope to eventually break into after graduation is a huge confidence booster, and mentors will often be much more up-to-date on how the field is evolving, what skills are in demand, and the best ways to navigate the job market.
 
 
 ## Mentoring Activities
 
+The format of CS 386 is hybrid, and since many mentors are not located in the Bay Area, meetings will be scheduled over Zoom (or another video conferencing tool of choice) while other class activities may be held on campus.
+
 Students will spend time in class preparing for their one-on-one meetings and
 reflecting on their conversations. We will also coordinate group activities
-throughout the academic year.
+throughout the academic year that mentors are welcome to attend if their schedules allow.
 
 Since this is the first time many mentors are participating in such a program,
-we will hold informal mentor panels so the mentors can meet each other and discuss
+we will also hold mentor panels so the mentors can meet each other and discuss
 how their meetings with students have been going.
