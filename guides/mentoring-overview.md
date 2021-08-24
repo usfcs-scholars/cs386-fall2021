@@ -53,3 +53,10 @@ throughout the academic year that mentors are welcome to attend if their schedul
 Since this is the first time many mentors are participating in such a program,
 we will also hold mentor panels so the mentors can meet each other and discuss
 how their meetings with students have been going.
+
+## Resources
+
+The following pages have some tips for facilitating the mentor-mentee relationship:
+* [For Mentors](mentoring-guide.html)
+* [For Students](student-guide.html)
+
