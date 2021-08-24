@@ -21,3 +21,4 @@ Mentoring is an equal partnership between two individuals; mentees are expected 
 * Ask for honest feedback and take action on it.
 * Assume the mentoring relationship will be strictly professional; be friendly, but do discuss, agree on, and respect personal boundaries.
 
+Adapted from the USF [mentoring handbook](https://www.usfca.edu/sites/default/files/alumni/alumni_mentor_program_handbook_accessible.docx.pdf).
