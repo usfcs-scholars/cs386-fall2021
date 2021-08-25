@@ -110,7 +110,7 @@ The following mentors have graciously agreed to participate in the CES mentoring
         <strong>Thomas Oropeza</strong><br/>
         Software Engineer<br/>
         Workday<br/>
-        <a href="https://www.linkedin.com/in/apapko/">LinkedIn</a>
+        <a href="https://www.linkedin.com/in/oropezathomas/">LinkedIn</a>
       </div>
     </div>
   </div>
