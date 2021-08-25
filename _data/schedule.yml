@@ -87,7 +87,7 @@ weeks:
           icon: *icon_guide
           link: 'assignments/reflection_instructions.html'
 
-        - label: 'Mentoring Resources'
+        - text: 'Mentoring Resources'
           items:
           - text: 'Mentoring Overview'
             icon: *icon_guide
