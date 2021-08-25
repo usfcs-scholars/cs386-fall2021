@@ -87,13 +87,19 @@ weeks:
           icon: *icon_guide
           link: 'assignments/reflection_instructions.html'
 
-        - text: 'Guide for Mentors'
-          icon: *icon_guide
-          link: 'guides/mentors.html'
+        - label: 'Mentoring Resources'
+          items:
+          - text: 'Mentoring Overview'
+            icon: *icon_guide
+            link: 'guides/mentors.html'
 
-        - text: 'Guide for Mentees'
-          icon: *icon_guide
-          link: 'guides/mentees.html'
+          - text: 'Guide for Mentors'
+            icon: *icon_guide
+            link: 'guides/mentoring-guide.html'
+
+          - text: 'Guide for Mentees'
+            icon: *icon_guide
+            link: 'guides/student-guide.html'
 
 
 - week: 2
