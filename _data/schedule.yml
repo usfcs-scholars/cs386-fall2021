@@ -89,7 +89,7 @@ weeks:
 
         - text: 'Mentoring Overview'
           icon: *icon_guide
-          link: 'guides/mentors.html'
+          link: 'guides/mentoring-overview.html'
 
         - text: 'Guide for Mentors'
           icon: *icon_guide
