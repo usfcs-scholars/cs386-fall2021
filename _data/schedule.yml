@@ -135,6 +135,7 @@ weeks:
     - label: 'Deadlines & Materials'
       items:
         - text: 'Assignment 2: Mentor Questions'
+          link: 'assignments/assignment_2.html'
           icon: *icon_assignment
           date: 2021-09-08
 
