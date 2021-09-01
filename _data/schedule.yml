@@ -107,8 +107,12 @@ weeks:
     - label: 'Wed 09/01'
       items:
 
-        - text: 'Mentoring Kickoff'
+        - text: 'Mentoring Kickoff (via Zoom)'
           icon: *icon_slides
+
+        - text: 'Zoom Link'
+          icon: *icon_website
+          link: 'https://usfca.zoom.us/j/87482848820'
 
     - label: 'Deadlines & Materials'
       items:
