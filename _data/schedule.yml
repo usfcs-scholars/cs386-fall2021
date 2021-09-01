@@ -68,6 +68,7 @@ weeks:
 
         - text: 'First Class Session'
           icon: *icon_slides
+          link: 'https://docs.google.com/presentation/d/1GDz5J5HeV8-oXSp6pjw8JHraRoGK_odVzbHgqERj4B8/edit?usp=sharing'
 
         - text: 'Course Syllabus'
           icon: *icon_website
