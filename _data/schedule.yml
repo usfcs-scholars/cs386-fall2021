@@ -154,8 +154,15 @@ weeks:
     - label: 'Wed 09/15'
       items:
 
-        - text: 'Building Identity as a Computing Professional'
+        - text: 'Discussion of Identity'
           icon: *icon_slides
+
+    - label: 'Deadlines & Materials'
+      items:
+        - text: 'Assignment 3: Identity Reflections'
+          link: 'assignments/assignment_3.html'
+          icon: *icon_assignment
+          date: 2021-09-15
 
 - week: 5
   date: 2021-09-19
