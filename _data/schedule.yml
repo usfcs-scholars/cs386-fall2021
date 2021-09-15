@@ -109,6 +109,7 @@ weeks:
 
         - text: 'Mentoring Kickoff (via Zoom)'
           icon: *icon_slides
+          link: 'https://docs.google.com/presentation/d/1yuPl1e8xhkbrHcRVok_bzbO3gd4tBJTxURLvdSAIZqg/edit?usp=sharing'
 
         - text: 'Zoom Link'
           icon: *icon_website
