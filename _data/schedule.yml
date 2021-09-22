@@ -182,6 +182,12 @@ weeks:
 
         - text: 'CS Related Disciplines and Knowledge Areas'
           icon: *icon_slides
+    - label: 'Deadlines & Materials'
+      items:
+        - text: 'Assignment 4: Job Ads'
+          link: 'assignments/assignment_4.html'
+          icon: *icon_assignment
+          date: 2021-09-29
 
 - week: 7
   date: 2021-10-3
