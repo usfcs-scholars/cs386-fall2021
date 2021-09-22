@@ -145,10 +145,6 @@ weeks:
           icon: *icon_assignment
           date: 2021-09-08
 
-        - text: 'Schedule First Mentor Meeting'
-          icon: *icon_assignment
-          date: 2021-09-10
-
 - week: 4
   date: 2021-09-12
   columns:
@@ -171,8 +167,19 @@ weeks:
     - label: 'Wed 09/22'
       items:
 
-        - text: 'Reflecting on our first mentor meeting'
+        - text: 'Mentor Questions, Presentations, Conferences'
           icon: *icon_slides
+          link: 'https://docs.google.com/presentation/d/14_6ffWoJPkyO5bdZhOqvgr-rmSbcOKYo5V7IsKSzqDI/edit?usp=sharing'
+
+    - label: 'Deadlines & Materials'
+      items:
+        - text: 'Conference List'
+          icon: *icon_assignment
+          link: 'https://docs.google.com/spreadsheets/d/15CHhwSLNKaryTbWoPE9bmX0BZuW3yZ64p2L4boTIorA/edit?usp=sharing'
+
+        - text: 'Schedule First Mentor Meeting'
+          icon: *icon_assignment
+          date: 2021-09-24
 
 - week: 6
   date: 2021-09-26
