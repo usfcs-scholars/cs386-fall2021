@@ -189,6 +189,7 @@ weeks:
 
         - text: 'CS Related Disciplines and Knowledge Areas'
           icon: *icon_slides
+          link: https://docs.google.com/presentation/d/1PrRg0ALfJ08A5YAqXzIE9W3dl2VX1Xyrf4ZdI7__uio/edit?usp=sharing
     - label: 'Deadlines & Materials'
       items:
         - text: 'Assignment 4: Job Ads'
