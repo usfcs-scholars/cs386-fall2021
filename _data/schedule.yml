@@ -206,7 +206,7 @@ weeks:
         - text: 'Mentoring Discussion and Presentation Topics'
           icon: *icon_slides
 
-- week: 7
+- week: 8
   date: 2021-10-10
   columns:
     - label: 'Wed 10/13'
@@ -220,3 +220,12 @@ weeks:
           link: 'https://usfca.instructure.com/courses/1603246/assignments/7136414'
           icon: *icon_assignment
           date: 2021-10-13
+
+- week: 9
+  date: 2021-10-17
+  columns:
+    - label: 'Wed 10/20'
+      items:
+
+        - text: 'Resumes'
+          icon: *icon_slides
