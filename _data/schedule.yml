@@ -203,6 +203,20 @@ weeks:
     - label: 'Wed 10/06'
       items:
 
-        - text: 'Imposterism'
+        - text: 'Mentoring Discussion and Presentation Topics'
           icon: *icon_slides
 
+- week: 7
+  date: 2021-10-10
+  columns:
+    - label: 'Wed 10/13'
+      items:
+
+        - text: 'Imposterism'
+          icon: *icon_slides
+    - label: 'Deadlines & Materials'
+      items:
+        - text: 'Assignment 5: Imposterism'
+          link: 'https://usfca.instructure.com/courses/1603246/assignments/7136414'
+          icon: *icon_assignment
+          date: 2021-10-13
