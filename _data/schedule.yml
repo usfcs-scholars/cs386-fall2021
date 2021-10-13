@@ -214,6 +214,8 @@ weeks:
 
         - text: 'Imposterism'
           icon: *icon_slides
+          link: https://docs.google.com/presentation/d/1dRSZVuKsgGQGfggLJU-q2NjvErEyVbp_AD8USPv2jUA/edit?usp=sharing
+          
     - label: 'Deadlines & Materials'
       items:
         - text: 'Assignment 5: Imposterism'
@@ -229,3 +231,4 @@ weeks:
 
         - text: 'Resumes'
           icon: *icon_slides
+
