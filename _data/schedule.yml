@@ -231,4 +231,10 @@ weeks:
 
         - text: 'Resumes'
           icon: *icon_slides
+    - label: 'Deadlines & Materials'
+      items:
+        - text: 'Reflection #2'
+          link: 'https://usfca.instructure.com/courses/1603246/assignments/7137628'
+          icon: *icon_assignment
+          date: 2021-10-22
 
