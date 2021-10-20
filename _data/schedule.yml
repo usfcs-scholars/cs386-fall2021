@@ -228,6 +228,9 @@ weeks:
   columns:
     - label: 'Wed 10/20'
       items:
+        - text: 'Presentations'
+          icon: *icon_slides
+          link: https://docs.google.com/presentation/d/1tIQc5x9447E2vmiw7w75J9fLoRpMNoG9WRFIW5GIc6c/edit?usp=sharing
 
         - text: 'Resumes'
           icon: *icon_slides
@@ -237,4 +240,20 @@ weeks:
           link: 'https://usfca.instructure.com/courses/1603246/assignments/7137628'
           icon: *icon_assignment
           date: 2021-10-22
+
+- week: 10
+  date: 2021-10-24
+  columns:
+    - label: 'Wed 10/27'
+      items:
+
+        - text: 'TBA'
+          icon: *icon_slides
+
+    - label: 'Deadlines & Materials'
+      items:
+        - text: 'Assignment #6'
+          link: 'https://usfca.instructure.com/courses/1603246/assignments/7138939'
+          icon: *icon_assignment
+          date: 2021-10-27
 
