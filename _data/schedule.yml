@@ -247,7 +247,7 @@ weeks:
     - label: 'Wed 10/27'
       items:
 
-        - text: 'TBA'
+        - text: 'Presentation Prep'
           icon: *icon_slides
 
     - label: 'Deadlines & Materials'
@@ -257,3 +257,18 @@ weeks:
           icon: *icon_assignment
           date: 2021-10-27
 
+- week: 11
+  date: 2021-11-01
+  columns:
+    - label: 'Wed 11/03'
+      items:
+
+        - text: 'Guest Speaker: Rong Liew'
+          icon: *icon_slides
+
+    - label: 'Deadlines & Materials'
+      items:
+        - text: 'Assignment #7'
+          link: 'https://usfca.instructure.com/courses/1603246/assignments/7140110'
+          icon: *icon_assignment
+          date: 2021-11-03
