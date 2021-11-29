@@ -272,3 +272,13 @@ weeks:
           link: 'https://usfca.instructure.com/courses/1603246/assignments/7140110'
           icon: *icon_assignment
           date: 2021-11-03
+
+- week: 15
+  date: 2021-11-29
+  columns:
+    - label: 'Wed 12/01'
+      items:
+
+        - text: 'Behavioral Interview Questions'
+          icon: *icon_slides
+          link: https://docs.google.com/presentation/d/1G2_si4N23XZsH7fjDgQrFSm8lY0jHdI1pKKLvtTCV9w/edit?usp=sharing
