@@ -282,3 +282,7 @@ weeks:
         - text: 'Behavioral Interview Questions'
           icon: *icon_slides
           link: https://docs.google.com/presentation/d/1G2_si4N23XZsH7fjDgQrFSm8lY0jHdI1pKKLvtTCV9w/edit?usp=sharing
+
+        - text: 'Presentation Recordings'
+          link: 'https://drive.google.com/drive/folders/1MygNjZCHu70PzmPACI0DtGOCrY1W0KT-'
+          icon: *icon_slides
